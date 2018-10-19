@@ -35,4 +35,9 @@ public class tela4 extends AppCompatActivity {
         finish();
 
     }
+    public void inverno (View view){
+        Intent HortaliçasI = new Intent(getApplicationContext(),Hinverno.class);
+        startActivity(HortaliçasI);
+        finish();
+    }
 }
