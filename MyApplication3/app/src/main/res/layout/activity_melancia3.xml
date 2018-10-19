@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo"
+    tools:context=".melancia3">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="442dp"
+        android:layout_height="244dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/texto" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="294dp"
+        android:layout_height="33dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Plantio"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#00FF00"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.039" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="403dp"
+        android:layout_height="252dp"
+        android:layout_marginTop="180dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textView2"
+        app:srcCompat="@drawable/texto" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="326dp"
+        android:layout_height="53dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginStart="72dp"
+        android:layout_marginTop="115dp"
+        android:background="@drawable/madeira"
+        android:onClick="VoltarTela"
+        android:text="Voltar"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.934"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView5" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="327dp"
+        android:layout_height="139dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:text="A semeadura das sementes é feita diretamente no local definitivo se as condições climáticas forem adequadas. Caso contrário, as sementes podem ser semeadas em vasos com 10 cm de diâmetro ou em sacos para mudas, que são mantidos em locais aquecidos."
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="327dp"
+        android:layout_height="278dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="136dp"
+        android:layout_marginEnd="8dp"
+        android:text=" As mudas devem ser transplantadas cuidadosamente quando atingem de 10 a 15 cm de altura. No local definitivo são abertas covas de 30 ou 40 cm de diâmetro e profundidade, com o solo retirado, adubado e recolocado. As sementes são semeadas a uma profundidade de 2 a 5 cm, colocando até seis sementes por cova, posteriormente eliminando as mudas mais fracas de forma a deixar apenas duas ou três plantas por cova. A germinação das sementes normalmente leva entre 4 e 14 dias. O espaçamento pode variar de 2 a 3 m entre as covas."
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.512"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textView10" />
+
+</android.support.constraint.ConstraintLayout>

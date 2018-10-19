@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo"
+    tools:context=".pimentao5">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="442dp"
+        android:layout_height="259dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/texto" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="294dp"
+        android:layout_height="33dp"
+        android:layout_marginTop="24dp"
+        android:text="Plantio"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#00FF00"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="338dp"
+        android:layout_height="178dp"
+        android:text="O espaçamento recomendado é de 60 a 120 cm entre as linhas de plantio e 40 a 60 cm entre as plantas, variando com a cultivar e as condições de cultivo. O pimentão pode ser cultivado em vasos, mas estes devem ter uma profundidade e um diâmetro de pelo menos 35 cm para que as plantas se desenvolvam bem. "
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="326dp"
+        android:layout_height="53dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginStart="72dp"
+        android:layout_marginTop="237dp"
+        android:background="@drawable/madeira"
+        android:onClick="VoltarTela"
+        android:text="Voltar"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.934"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+
+</android.support.constraint.ConstraintLayout>

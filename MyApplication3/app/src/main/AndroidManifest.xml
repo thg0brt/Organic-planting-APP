@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mathe.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".tela2" />
+        <activity android:name=".tela3" />
+        <activity android:name=".tela4" />
+        <activity android:name=".Hprimavera" />
+        <activity android:name=".Hprimavera2" />
+        <activity android:name=".abobora" />
+        <activity android:name=".abobora2" />
+        <activity android:name=".abobora3" />
+        <activity android:name=".cenoura" />
+        <activity android:name=".cenoura2" />
+        <activity android:name=".cenoura3" />
+        <activity android:name=".tomate" />
+        <activity android:name=".tomate2" />
+        <activity android:name=".tomate3" />
+        <activity android:name=".agrio" />
+        <activity android:name=".agrioa2" />
+        <activity android:name=".agriao3" />
+        <activity android:name=".melancia" />
+        <activity android:name=".melancia2" />
+        <activity android:name=".melancia3" />
+        <activity android:name=".pimentao" />
+        <activity android:name=".pientao2" />
+        <activity android:name=".pimentao2" />
+        <activity android:name=".pimentao3" />
+        <activity android:name=".pimentao4" />
+        <activity android:name=".pimentao5" />
+        <activity android:name=".berinjela" />
+        <activity android:name=".berinjela2" />
+        <activity android:name=".berinjela3" />
+        <activity android:name=".berinjela4" />
+        <activity android:name=".mostarda" />
+        <activity android:name=".mostarda2" />
+        <activity android:name=".mostarda3" />
+        <activity android:name=".mostarda4"></activity>
+    </application>
+
+</manifest>
