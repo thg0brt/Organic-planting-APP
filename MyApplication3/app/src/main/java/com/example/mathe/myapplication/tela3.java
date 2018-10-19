@@ -35,4 +35,11 @@ public class tela3 extends AppCompatActivity {
         finish();
 
     }
+    public void Verao(View view){
+
+        Intent HortaliçasV = new Intent(getApplicationContext(),Hverao.class);
+        startActivity(HortaliçasV);
+        finish();
+
+    }
 }

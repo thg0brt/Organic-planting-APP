@@ -28,4 +28,11 @@ public class tela4 extends AppCompatActivity {
         finish();
 
     }
+    public void outono(View view){
+
+        Intent HortaliçasO = new Intent(getApplicationContext(),Hverao.class);
+        startActivity(HortaliçasO);
+        finish();
+
+    }
 }

@@ -13,6 +13,7 @@
         android:layout_height="230dp"
         android:layout_marginTop="44dp"
         android:background="@drawable/outono"
+        android:onClick="outono"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.434"
         app:layout_constraintStart_toStartOf="parent"

@@ -889,8 +889,12 @@ layout activity_berinjela4
 layout activity_cenoura
 layout activity_cenoura2
 layout activity_cenoura3
+layout activity_houtono
+layout activity_houtono2
 layout activity_hprimavera
 layout activity_hprimavera2
+layout activity_hverao
+layout activity_hverao2
 layout activity_main
 layout activity_melancia
 layout activity_melancia2

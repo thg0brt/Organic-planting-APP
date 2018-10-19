@@ -16,8 +16,8 @@ public class tela2 extends AppCompatActivity {
 
     public void irHortaliças(View view){
 
-        Intent Hortaliças = new Intent(getApplicationContext(),tela3.class);
-        startActivity(Hortaliças);
+        Intent Ortaliças = new Intent(getApplicationContext(),tela3.class);
+        startActivity(Ortaliças);
 
     }
 }

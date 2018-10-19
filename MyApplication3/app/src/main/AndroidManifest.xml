@@ -49,7 +49,11 @@
         <activity android:name=".mostarda" />
         <activity android:name=".mostarda2" />
         <activity android:name=".mostarda3" />
-        <activity android:name=".mostarda4"></activity>
+        <activity android:name=".mostarda4" />
+        <activity android:name=".Hverao" />
+        <activity android:name=".Hverao2" />
+        <activity android:name=".Houtono" />
+        <activity android:name=".Houtono2"></activity>
     </application>
 
 </manifest>

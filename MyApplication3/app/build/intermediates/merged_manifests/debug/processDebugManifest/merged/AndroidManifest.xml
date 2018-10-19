@@ -58,6 +58,10 @@
         <activity android:name="com.example.mathe.myapplication.mostarda2" />
         <activity android:name="com.example.mathe.myapplication.mostarda3" />
         <activity android:name="com.example.mathe.myapplication.mostarda4" />
+        <activity android:name="com.example.mathe.myapplication.Hverao" />
+        <activity android:name="com.example.mathe.myapplication.Hverao2" />
+        <activity android:name="com.example.mathe.myapplication.Houtono" />
+        <activity android:name="com.example.mathe.myapplication.Houtono2" />
     </application>
 
 </manifest>
