@@ -29,4 +29,12 @@ public class Hverao extends AppCompatActivity {
 
     }
 
+    public void beterraba(View view){
+
+        Intent irTela = new Intent(getApplicationContext(),beterraba.class);
+        startActivity(irTela);
+        finish();
+
+    }
+
 }

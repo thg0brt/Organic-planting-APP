@@ -54,7 +54,8 @@
         <activity android:name=".Hverao2" />
         <activity android:name=".Houtono" />
         <activity android:name=".Houtono2" />
-        <activity android:name=".Hinverno"></activity>
+        <activity android:name=".Hinverno" />
+        <activity android:name=".beterraba"></activity>
     </application>
 
 </manifest>
