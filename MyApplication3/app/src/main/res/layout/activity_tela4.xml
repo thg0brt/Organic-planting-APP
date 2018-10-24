@@ -9,29 +9,28 @@
 
     <Button
         android:id="@+id/bOutono"
-        android:layout_width="239dp"
+        android:layout_width="257dp"
         android:layout_height="230dp"
-        android:layout_marginTop="44dp"
         android:background="@drawable/outono"
         android:onClick="outono"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.434"
+        app:layout_constraintHorizontal_bias="0.436"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/bInverno"
-        android:layout_width="239dp"
+        android:layout_width="248dp"
         android:layout_height="230dp"
-        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="80dp"
         android:background="@drawable/inverno"
         android:onClick="inverno"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.434"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/bOutono"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.486" />
 
     <Button
         android:id="@+id/button3"
