@@ -762,6 +762,7 @@ id imageView15
 id imageView16
 id imageView17
 id imageView2
+id imageView3
 id imageView6
 id imageView7
 id imageView8
@@ -841,6 +842,7 @@ id textView16
 id textView17
 id textView18
 id textView19
+id textView2
 id textView21
 id textView22
 id textView23
@@ -897,6 +899,7 @@ layout activity_agriao
 layout activity_berinjela1
 layout activity_beterraba
 layout activity_cenoura1
+layout activity_coentro
 layout activity_hinverno
 layout activity_houtono
 layout activity_houtono2
@@ -909,6 +912,7 @@ layout activity_melancia1
 layout activity_mostarda
 layout activity_mostarda_verao
 layout activity_pimentao1
+layout activity_rabanete
 layout activity_tela2
 layout activity_tela3
 layout activity_tela4

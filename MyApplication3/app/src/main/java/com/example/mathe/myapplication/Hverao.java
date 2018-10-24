@@ -15,33 +15,35 @@ public class Hverao extends AppCompatActivity {
     }
 
     public void VoltarH(View view){
-
         Intent H = new Intent(getApplicationContext(),tela3.class);
         startActivity(H);
         finish();
-
     }
     public void IrTela(View view){
-
         Intent irTela = new Intent(getApplicationContext(),Hverao2.class);
         startActivity(irTela);
         finish();
-
     }
 
     public void beterraba(View view){
-
-        Intent irTela = new Intent(getApplicationContext(),beterraba.class);
-        startActivity(irTela);
+        Intent Beterraba = new Intent(getApplicationContext(),beterraba.class);
+        startActivity(Beterraba);
         finish();
-
     }
     public void mostarda(View view){
-
-        Intent voltar = new Intent(getApplicationContext(),mostardaVerao.class);
-        startActivity(voltar);
+        Intent Mostarda = new Intent(getApplicationContext(),mostardaVerao.class);
+        startActivity(Mostarda);
         finish();
-
+    }
+    public void rabanete(View view){
+        Intent Rabanete = new Intent(getApplicationContext(),rabanete.class);
+        startActivity(Rabanete);
+        finish();
+    }
+    public void coentro(View view){
+        Intent Coentro = new Intent(getApplicationContext(),coentro.class);
+        startActivity(Coentro);
+        finish();
     }
 
 }

@@ -604,6 +604,10 @@
         "source": "C:\\Users\\mathe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\64792c18d265e7d27b1bda0c068dce62\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\mathe\\Documents\\organic-plantingTCC\\MyApplication3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rabanete.xml.flat",
+        "source": "C:\\Users\\mathe\\Documents\\organic-plantingTCC\\MyApplication3\\app\\src\\main\\res\\layout\\activity_rabanete.xml"
+    },
+    {
         "merged": "C:\\Users\\mathe\\Documents\\organic-plantingTCC\\MyApplication3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\mathe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\64792c18d265e7d27b1bda0c068dce62\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
@@ -1150,6 +1154,10 @@
     {
         "merged": "C:\\Users\\mathe\\Documents\\organic-plantingTCC\\MyApplication3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\mathe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\64792c18d265e7d27b1bda0c068dce62\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\Documents\\organic-plantingTCC\\MyApplication3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_coentro.xml.flat",
+        "source": "C:\\Users\\mathe\\Documents\\organic-plantingTCC\\MyApplication3\\app\\src\\main\\res\\layout\\activity_coentro.xml"
     },
     {
         "merged": "C:\\Users\\mathe\\Documents\\organic-plantingTCC\\MyApplication3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",

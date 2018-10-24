@@ -63,7 +63,9 @@
         <activity android:name=".cenoura1" />
         <activity android:name=".melancia1" />
         <activity android:name=".pimentao1" />
-        <activity android:name=".tomate1"></activity>
+        <activity android:name=".tomate1" />
+        <activity android:name=".rabanete" />
+        <activity android:name=".coentro"></activity>
     </application>
 
 </manifest>
