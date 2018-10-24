@@ -30,7 +30,7 @@ public class Hprimavera2 extends AppCompatActivity {
     }
     public void Berinjela(View view){
 
-        Intent berinjela = new Intent(getApplicationContext(),berinjela.class);
+        Intent berinjela = new Intent(getApplicationContext(),berinjela1.class);
         startActivity(berinjela);
         finish();
 

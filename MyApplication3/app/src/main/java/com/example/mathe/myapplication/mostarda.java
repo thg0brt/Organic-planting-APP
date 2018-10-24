@@ -20,12 +20,4 @@ public class mostarda extends AppCompatActivity {
         finish();
 
     }
-
-    public void ProximaTela(View view){
-
-        Intent proxima = new Intent(getApplicationContext(),mostarda2.class);
-        startActivity(proxima);
-        finish();
-
-    }
 }

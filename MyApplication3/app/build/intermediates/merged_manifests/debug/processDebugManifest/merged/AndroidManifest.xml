@@ -5,7 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="19"
+        android:minSdkVersion="22"
         android:targetSdkVersion="28" />
 
     <application
@@ -65,7 +65,14 @@
         <activity android:name="com.example.mathe.myapplication.Houtono2" />
         <activity android:name="com.example.mathe.myapplication.Hinverno" />
         <activity android:name="com.example.mathe.myapplication.beterraba" />
-        <activity android:name="com.example.mathe.myapplication.cebolinha" />
+        <activity android:name="com.example.mathe.myapplication.mostardaVerao" />
+        <activity android:name="com.example.mathe.myapplication.abobora1" />
+        <activity android:name="com.example.mathe.myapplication.agriao" />
+        <activity android:name="com.example.mathe.myapplication.berinjela1" />
+        <activity android:name="com.example.mathe.myapplication.cenoura1" />
+        <activity android:name="com.example.mathe.myapplication.melancia1" />
+        <activity android:name="com.example.mathe.myapplication.pimentao1" />
+        <activity android:name="com.example.mathe.myapplication.tomate1" />
     </application>
 
 </manifest>

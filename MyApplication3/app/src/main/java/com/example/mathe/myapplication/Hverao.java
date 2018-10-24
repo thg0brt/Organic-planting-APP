@@ -36,5 +36,12 @@ public class Hverao extends AppCompatActivity {
         finish();
 
     }
+    public void mostarda(View view){
+
+        Intent voltar = new Intent(getApplicationContext(),mostardaVerao.class);
+        startActivity(voltar);
+        finish();
+
+    }
 
 }

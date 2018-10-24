@@ -30,42 +30,42 @@ public class Hprimavera extends AppCompatActivity {
     }
     public void Abobora(View view){
 
-        Intent abobora = new Intent(getApplicationContext(),abobora.class);
+        Intent abobora = new Intent(getApplicationContext(),abobora1.class);
         startActivity(abobora);
         finish();
 
     }
     public void cenoura(View view){
 
-        Intent Cenoura = new Intent(getApplicationContext(),cenoura.class);
+        Intent Cenoura = new Intent(getApplicationContext(),cenoura1.class);
         startActivity(Cenoura);
         finish();
 
     }
     public void Tomate(View view){
 
-        Intent tomate = new Intent(getApplicationContext(),tomate.class);
+        Intent tomate = new Intent(getApplicationContext(),tomate1.class);
         startActivity(tomate);
         finish();
 
     }
     public void Agriao(View view){
 
-        Intent tomate = new Intent(getApplicationContext(),agrio.class);
+        Intent tomate = new Intent(getApplicationContext(),agriao.class);
         startActivity(tomate);
         finish();
 
     }
     public void Melancia(View view){
 
-        Intent melancia = new Intent(getApplicationContext(),melancia.class);
+        Intent melancia = new Intent(getApplicationContext(),melancia1.class);
         startActivity(melancia);
         finish();
 
     }
     public void Pimentao(View view){
 
-        Intent pimentao = new Intent(getApplicationContext(),pimentao.class);
+        Intent pimentao = new Intent(getApplicationContext(),pimentao1.class);
         startActivity(pimentao);
         finish();
 
