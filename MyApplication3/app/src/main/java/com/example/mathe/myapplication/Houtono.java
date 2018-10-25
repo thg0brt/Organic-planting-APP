@@ -20,10 +20,10 @@ public class Houtono extends AppCompatActivity {
         finish();
 
     }
-    public void IrTela(View view){
+    public void agriao(View view){
 
-        Intent irTela = new Intent(getApplicationContext(),Houtono2.class);
-        startActivity(irTela);
+        Intent Agriao = new Intent(getApplicationContext(),agriao.class);
+        startActivity(Agriao);
         finish();
 
     }
