@@ -5,7 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="22"
+        android:minSdkVersion="19"
         android:targetSdkVersion="28" />
 
     <application
@@ -30,35 +30,8 @@
         <activity android:name="com.example.mathe.myapplication.tela4" />
         <activity android:name="com.example.mathe.myapplication.Hprimavera" />
         <activity android:name="com.example.mathe.myapplication.Hprimavera2" />
-        <activity android:name="com.example.mathe.myapplication.abobora" />
-        <activity android:name="com.example.mathe.myapplication.abobora2" />
-        <activity android:name="com.example.mathe.myapplication.abobora3" />
-        <activity android:name="com.example.mathe.myapplication.cenoura" />
-        <activity android:name="com.example.mathe.myapplication.cenoura2" />
-        <activity android:name="com.example.mathe.myapplication.cenoura3" />
-        <activity android:name="com.example.mathe.myapplication.tomate" />
-        <activity android:name="com.example.mathe.myapplication.tomate2" />
-        <activity android:name="com.example.mathe.myapplication.tomate3" />
-        <activity android:name="com.example.mathe.myapplication.agrio" />
-        <activity android:name="com.example.mathe.myapplication.agrioa2" />
-        <activity android:name="com.example.mathe.myapplication.agriao3" />
-        <activity android:name="com.example.mathe.myapplication.melancia" />
-        <activity android:name="com.example.mathe.myapplication.melancia2" />
-        <activity android:name="com.example.mathe.myapplication.melancia3" />
-        <activity android:name="com.example.mathe.myapplication.pimentao" />
         <activity android:name="com.example.mathe.myapplication.pientao2" />
-        <activity android:name="com.example.mathe.myapplication.pimentao2" />
-        <activity android:name="com.example.mathe.myapplication.pimentao3" />
-        <activity android:name="com.example.mathe.myapplication.pimentao4" />
-        <activity android:name="com.example.mathe.myapplication.pimentao5" />
-        <activity android:name="com.example.mathe.myapplication.berinjela" />
-        <activity android:name="com.example.mathe.myapplication.berinjela2" />
-        <activity android:name="com.example.mathe.myapplication.berinjela3" />
-        <activity android:name="com.example.mathe.myapplication.berinjela4" />
         <activity android:name="com.example.mathe.myapplication.mostarda" />
-        <activity android:name="com.example.mathe.myapplication.mostarda2" />
-        <activity android:name="com.example.mathe.myapplication.mostarda3" />
-        <activity android:name="com.example.mathe.myapplication.mostarda4" />
         <activity android:name="com.example.mathe.myapplication.Hverao" />
         <activity android:name="com.example.mathe.myapplication.Hverao2" />
         <activity android:name="com.example.mathe.myapplication.Houtono" />
@@ -75,6 +48,7 @@
         <activity android:name="com.example.mathe.myapplication.tomate1" />
         <activity android:name="com.example.mathe.myapplication.rabanete" />
         <activity android:name="com.example.mathe.myapplication.coentro" />
+        <activity android:name="com.example.mathe.myapplication.cebolinha1" />
     </application>
 
 </manifest>

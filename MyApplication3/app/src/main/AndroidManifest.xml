@@ -21,35 +21,8 @@
         <activity android:name=".tela4" />
         <activity android:name=".Hprimavera" />
         <activity android:name=".Hprimavera2" />
-        <activity android:name=".abobora" />
-        <activity android:name=".abobora2" />
-        <activity android:name=".abobora3" />
-        <activity android:name=".cenoura" />
-        <activity android:name=".cenoura2" />
-        <activity android:name=".cenoura3" />
-        <activity android:name=".tomate" />
-        <activity android:name=".tomate2" />
-        <activity android:name=".tomate3" />
-        <activity android:name=".agrio" />
-        <activity android:name=".agrioa2" />
-        <activity android:name=".agriao3" />
-        <activity android:name=".melancia" />
-        <activity android:name=".melancia2" />
-        <activity android:name=".melancia3" />
-        <activity android:name=".pimentao" />
         <activity android:name=".pientao2" />
-        <activity android:name=".pimentao2" />
-        <activity android:name=".pimentao3" />
-        <activity android:name=".pimentao4" />
-        <activity android:name=".pimentao5" />
-        <activity android:name=".berinjela" />
-        <activity android:name=".berinjela2" />
-        <activity android:name=".berinjela3" />
-        <activity android:name=".berinjela4" />
         <activity android:name=".mostarda" />
-        <activity android:name=".mostarda2" />
-        <activity android:name=".mostarda3" />
-        <activity android:name=".mostarda4" />
         <activity android:name=".Hverao" />
         <activity android:name=".Hverao2" />
         <activity android:name=".Houtono" />
@@ -65,7 +38,8 @@
         <activity android:name=".pimentao1" />
         <activity android:name=".tomate1" />
         <activity android:name=".rabanete" />
-        <activity android:name=".coentro"></activity>
+        <activity android:name=".coentro" />
+        <activity android:name=".cebolinha1"></activity>
     </application>
 
 </manifest>

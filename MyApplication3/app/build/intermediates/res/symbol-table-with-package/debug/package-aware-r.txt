@@ -689,7 +689,6 @@ id async
 id bInsumos
 id bInverno
 id bMenu
-id bMenu1
 id bOrtaliças
 id bOutono
 id bPesticida
@@ -707,13 +706,10 @@ id button12
 id button13
 id button15
 id button2
-id button3
 id button4
 id button5
 id button6
 id button7
-id button8
-id button9
 id buttonPanel
 id center
 id center_horizontal
@@ -843,10 +839,12 @@ id textView17
 id textView18
 id textView19
 id textView2
+id textView20
 id textView21
 id textView22
 id textView23
 id textView24
+id textView25
 id textView6
 id textView7
 id time
@@ -858,6 +856,7 @@ id topPanel
 id uniform
 id up
 id useLogo
+id view
 id withText
 id wrap
 id wrap_content
@@ -898,6 +897,7 @@ layout activity_abobora1
 layout activity_agriao
 layout activity_berinjela1
 layout activity_beterraba
+layout activity_cebolinha1
 layout activity_cenoura1
 layout activity_coentro
 layout activity_hinverno

@@ -45,5 +45,10 @@ public class Hverao extends AppCompatActivity {
         startActivity(Coentro);
         finish();
     }
+    public void cebolinha(View view){
+        Intent Cebolinha = new Intent(getApplicationContext(),cebolinha1.class);
+        startActivity(Cebolinha);
+        finish();
+    }
 
 }

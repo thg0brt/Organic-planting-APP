@@ -5,58 +5,52 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/fundo"
-    tools:context=".tela4">
+    tools:context=".tela4"
+    tools:layout_editor_absoluteY="89dp">
 
     <Button
         android:id="@+id/bOutono"
-        android:layout_width="239dp"
-        android:layout_height="230dp"
-        android:layout_marginTop="44dp"
+        android:layout_width="230dp"
+        android:layout_height="200dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
         android:background="@drawable/outono"
         android:onClick="outono"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.434"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/bInverno"
-        android:layout_width="239dp"
-        android:layout_height="230dp"
-        android:layout_marginBottom="8dp"
+        android:layout_width="230dp"
+        android:layout_height="200dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
         android:background="@drawable/inverno"
         android:onClick="inverno"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.434"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/bOutono"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintTop_toBottomOf="@+id/bOutono" />
 
-    <Button
-        android:id="@+id/button3"
-        android:layout_width="142dp"
-        android:layout_height="64dp"
-        android:layout_marginEnd="36dp"
-        android:background="@drawable/madeira"
-        android:onClick="VoltarTela"
-        android:text="Voltar"
-        android:textAlignment="center"
-        android:textAllCaps="false"
-        android:textColor="#FFFFFF"
-        android:textSize="24sp"
-        android:textStyle="bold"
+    <View
+        android:id="@+id/view"
+        android:layout_width="306dp"
+        android:layout_height="118dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/bInverno"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bInverno" />
 
     <Button
-        android:id="@+id/bMenu1"
+        android:id="@+id/bMenu"
         android:layout_width="142dp"
         android:layout_height="64dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginStart="16dp"
+        android:layout_marginStart="8dp"
         android:background="@drawable/madeira"
         android:onClick="IrMenu"
         android:text="Menu"
@@ -65,9 +59,23 @@
         android:textColor="#FFFFFF"
         android:textSize="24sp"
         android:textStyle="bold"
-        app:layout_constraintEnd_toStartOf="@+id/button3"
-        app:layout_constraintHorizontal_bias="0.43"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/bInverno" />
+        app:layout_constraintBottom_toBottomOf="@+id/view"
+        app:layout_constraintStart_toStartOf="@+id/view"
+        app:layout_constraintTop_toTopOf="@+id/view" />
 
+    <Button
+        android:id="@+id/Bproximo"
+        android:layout_width="142dp"
+        android:layout_height="64dp"
+        android:layout_marginEnd="8dp"
+        android:background="@drawable/madeira"
+        android:onClick="VoltarTela"
+        android:text="Voltar"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/view"
+        app:layout_constraintEnd_toEndOf="@+id/view"
+        app:layout_constraintTop_toTopOf="@+id/view" />
 </android.support.constraint.ConstraintLayout>

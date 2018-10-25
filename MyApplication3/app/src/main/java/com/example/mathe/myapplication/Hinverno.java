@@ -14,11 +14,24 @@ public class Hinverno extends AppCompatActivity {
         setContentView(R.layout.activity_hinverno);
     }
     public void VoltarH(View view){
-
         Intent H = new Intent(getApplicationContext(),tela3.class);
         startActivity(H);
         finish();
-
+    }
+    public void cebolinha(View view){
+        Intent Cebolinha = new Intent(getApplicationContext(),cebolinha1.class);
+        startActivity(Cebolinha);
+        finish();
+    }
+    public void agriao(View view){
+        Intent Agriao = new Intent(getApplicationContext(),agriao.class);
+        startActivity(Agriao);
+        finish();
+    }
+    public void mostarda(View view){
+        Intent Mostarda = new Intent(getApplicationContext(),mostarda.class);
+        startActivity(Mostarda);
+        finish();
     }
    
 }

@@ -9,34 +9,48 @@
 
     <Button
         android:id="@+id/bPrimavera"
-        android:layout_width="239dp"
-        android:layout_height="230dp"
-        android:layout_marginTop="44dp"
+        android:layout_width="230dp"
+        android:layout_height="200dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
         android:background="@drawable/primavera"
         android:onClick="Primavera"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.434"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/bVerao"
-        android:layout_width="239dp"
-        android:layout_height="230dp"
+        android:layout_width="230dp"
+        android:layout_height="200dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
         android:background="@drawable/verao"
         android:onClick="Verao"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bPrimavera" />
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="307dp"
+        android:layout_height="97dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.434"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/bPrimavera"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintTop_toBottomOf="@+id/bVerao" />
 
     <Button
         android:id="@+id/Bproximo"
         android:layout_width="142dp"
         android:layout_height="64dp"
-        android:layout_marginEnd="36dp"
+        android:layout_marginEnd="8dp"
         android:background="@drawable/madeira"
         android:onClick="ProximaTela"
         android:text="Próximo"
@@ -44,17 +58,15 @@
         android:textColor="#FFFFFF"
         android:textSize="24sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/bVerao"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintBottom_toBottomOf="@+id/view"
+        app:layout_constraintEnd_toEndOf="@+id/view"
+        app:layout_constraintTop_toTopOf="@+id/view"
+        app:layout_constraintVertical_bias="0.484" />
 
     <Button
         android:id="@+id/bMenu"
         android:layout_width="142dp"
         android:layout_height="64dp"
-        android:layout_marginBottom="80dp"
-        android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:background="@drawable/madeira"
         android:onClick="IrMenu"
@@ -64,11 +76,9 @@
         android:textColor="#FFFFFF"
         android:textSize="24sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/Bproximo"
-        app:layout_constraintHorizontal_bias="0.431"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/bVerao"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintBottom_toBottomOf="@+id/view"
+        app:layout_constraintStart_toStartOf="@+id/view"
+        app:layout_constraintTop_toTopOf="@+id/view"
+        app:layout_constraintVertical_bias="0.454" />
 
 </android.support.constraint.ConstraintLayout>
