@@ -829,6 +829,7 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textView
+id textView1
 id textView10
 id textView12
 id textView13
@@ -902,7 +903,6 @@ layout activity_cenoura1
 layout activity_coentro
 layout activity_hinverno
 layout activity_houtono
-layout activity_houtono2
 layout activity_hprimavera
 layout activity_hprimavera2
 layout activity_hverao
