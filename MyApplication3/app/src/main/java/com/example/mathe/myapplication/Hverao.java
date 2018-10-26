@@ -50,5 +50,11 @@ public class Hverao extends AppCompatActivity {
         startActivity(Cebolinha);
         finish();
     }
+    public void rucula(View view){
+        Intent Rucula = new Intent(getApplicationContext(),rucula.class);
+        startActivity(Rucula);
+        finish();
+    }
+
 
 }

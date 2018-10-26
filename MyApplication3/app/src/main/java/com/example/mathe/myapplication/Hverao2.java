@@ -30,8 +30,23 @@ public class Hverao2 extends AppCompatActivity {
     }
     public void mostarda(View view){
 
-        Intent voltar = new Intent(getApplicationContext(),mostardaVerao.class);
-        startActivity(voltar);
+        Intent Mostarda = new Intent(getApplicationContext(),mostardaVerao.class);
+        startActivity(Mostarda);
+        finish();
+
+    }
+
+    public void salsa(View view){
+
+        Intent Salsa = new Intent(getApplicationContext(),salsa.class);
+        startActivity(Salsa);
+        finish();
+
+    }
+    public void espinafre(View view){
+
+        Intent Espinafre = new Intent(getApplicationContext(),espinafre.class);
+        startActivity(Espinafre);
         finish();
 
     }
