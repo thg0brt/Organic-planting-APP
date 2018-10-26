@@ -56,5 +56,4 @@ public class Hverao extends AppCompatActivity {
         finish();
     }
 
-
 }

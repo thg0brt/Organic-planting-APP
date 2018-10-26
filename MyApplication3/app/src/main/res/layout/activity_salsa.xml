@@ -86,18 +86,20 @@
             <TextView
                 android:id="@+id/textView17"
                 android:layout_width="317dp"
-                android:layout_height="133dp"
+                android:layout_height="173dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginBottom="8dp"
                 android:text=" A salsa pode ser cultivada em lugares ensolarados ou em sombra parcial com alta luminosidade. Em regiões com temperaturas mais elevadas, salsa deve ser cultivada em um local mais fresco e bem iluminado, mas com o cuidado de não a deixar exposta a luz solar direta nas horas mais quentes do dia."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
-                android:textSize="22sp"
+                android:textSize="17sp"
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView15"
                 app:layout_constraintEnd_toEndOf="@+id/imageView15"
+                app:layout_constraintHorizontal_bias="0.514"
                 app:layout_constraintStart_toStartOf="@+id/imageView15"
-                app:layout_constraintTop_toBottomOf="@+id/textView16" />
+                app:layout_constraintTop_toBottomOf="@+id/textView16"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView16"
@@ -131,7 +133,7 @@
                 android:layout_height="179dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginBottom="8dp"
-                android:text="A salsa deve ser cultivada em um solo bem drenado, fértil, rico em matéria orgânica. Obs: Por se tratar de uma hortaliça rústica,ela possui tolerância a vários tipos de solo e pode crescer mesmo em solos poucos férteis"
+                android:text="A salsa deve ser cultivada em um solo bem drenado, fértil, rico em matéria orgânica. Obs: Por se tratar de uma hortaliça rústica,ela possui tolerância a vários tipos de solo e pode crescer mesmo em solos poucos férteis."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="20sp"
@@ -170,30 +172,16 @@
             <TextView
                 android:id="@+id/textView22"
                 android:layout_width="317dp"
-                android:layout_height="105dp"
-                android:text="Irrigação deve ser feita de maneira a manter o solo sempre úmido, mas sem o deixar encharcado."
+                android:layout_height="176dp"
+                android:text="                                                                      Irrigação deve ser feita de maneira a manter o solo sempre úmido, mas sem o deixar encharcado."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
-                android:textSize="20sp"
+                android:textSize="22sp"
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="@+id/imageView6"
                 app:layout_constraintHorizontal_bias="0.538"
                 app:layout_constraintStart_toStartOf="@+id/imageView6"
                 app:layout_constraintTop_toBottomOf="@+id/textView21" />
-
-            <TextView
-                android:id="@+id/textView23"
-                android:layout_width="323dp"
-                android:layout_height="84dp"
-                android:layout_marginTop="8dp"
-                android:text="Retirar isso não precisa "
-                android:textAlignment="center"
-                android:textColor="#FF0000"
-                android:textSize="20sp"
-                android:textStyle="bold"
-                app:layout_constraintEnd_toEndOf="@+id/imageView6"
-                app:layout_constraintStart_toStartOf="@+id/imageView6"
-                app:layout_constraintTop_toBottomOf="@+id/textView22" />
 
             <ImageView
                 android:id="@+id/imageView7"

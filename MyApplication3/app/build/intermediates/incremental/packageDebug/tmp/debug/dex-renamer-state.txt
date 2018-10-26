@@ -1,4 +1,4 @@
-#Fri Oct 26 08:56:25 BRST 2018
-base.0=/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/transforms/dexMerger/debug/0
+#Fri Oct 26 15:44:28 BRST 2018
+base.0=C\:\\Users\\mathe\\Desktop\\MyApplication3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

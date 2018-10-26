@@ -20,9 +20,11 @@
         <activity android:name=".tela3" />
         <activity android:name=".tela4" />
         <activity android:name=".Hprimavera" />
+        <activity android:name=".Hprimavera2" />
         <activity android:name=".pientao2" />
         <activity android:name=".mostarda" />
         <activity android:name=".Hverao" />
+        <activity android:name=".Hverao2" />
         <activity android:name=".Houtono" />
         <activity android:name=".Hinverno" />
         <activity android:name=".beterraba" />
@@ -38,8 +40,8 @@
         <activity android:name=".coentro" />
         <activity android:name=".cebolinha1" />
         <activity android:name=".rucula" />
-        <activity android:name=".salsa" />
-        <activity android:name=".espinafre"></activity>
+        <activity android:name=".espinafre" />
+        <activity android:name=".salsa"></activity>
     </application>
 
 </manifest>
