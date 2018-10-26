@@ -21,6 +21,13 @@ public class Hprimavera extends AppCompatActivity {
         finish();
 
     }
+    public void IrTela(View view){
+
+        Intent irTela = new Intent(getApplicationContext(),Hprimavera2.class);
+        startActivity(irTela);
+        finish();
+
+    }
     public void Abobora(View view){
 
         Intent abobora = new Intent(getApplicationContext(),abobora1.class);
@@ -61,15 +68,6 @@ public class Hprimavera extends AppCompatActivity {
         Intent pimentao = new Intent(getApplicationContext(),pimentao1.class);
         startActivity(pimentao);
         finish();
-    }
-    public void Berinjela(View view){
-        Intent berinjela = new Intent(getApplicationContext(),berinjela1.class);
-        startActivity(berinjela);
-        finish();
-    }
-    public void Mostarda (View view){
-        Intent mostarda = new Intent(getApplicationContext(),mostarda.class);
-        startActivity(mostarda);
-        finish();
+
     }
 }

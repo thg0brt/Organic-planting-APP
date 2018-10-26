@@ -22,31 +22,24 @@ public class Hverao2 extends AppCompatActivity {
 
     }
     public void VoltarTela(View view){
-
         Intent voltar = new Intent(getApplicationContext(),Hverao.class);
         startActivity(voltar);
         finish();
-
     }
     public void mostarda(View view){
-
-        Intent Mostarda = new Intent(getApplicationContext(),mostardaVerao.class);
-        startActivity(Mostarda);
+        Intent voltar = new Intent(getApplicationContext(),mostardaVerao.class);
+        startActivity(voltar);
         finish();
-
     }
-
+    public void espinafre(View view){
+        Intent Espinafre = new Intent(getApplicationContext(),espinafre.class);
+        startActivity(Espinafre);
+        finish();
+    }
     public void salsa(View view){
 
         Intent Salsa = new Intent(getApplicationContext(),salsa.class);
         startActivity(Salsa);
-        finish();
-
-    }
-    public void espinafre(View view){
-
-        Intent Espinafre = new Intent(getApplicationContext(),espinafre.class);
-        startActivity(Espinafre);
         finish();
 
     }

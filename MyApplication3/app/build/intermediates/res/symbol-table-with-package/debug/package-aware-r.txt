@@ -689,7 +689,7 @@ id async
 id bInsumos
 id bInverno
 id bMenu
-id bOrtaliÃ§as
+id bOrtaliças
 id bOutono
 id bPesticida
 id bPrimavera
