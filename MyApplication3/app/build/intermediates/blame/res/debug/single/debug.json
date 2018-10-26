@@ -396,6 +396,10 @@
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7cc253cd4d69c0a3722ea9f61c149e69/res/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
     {
+        "merged": "/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/res/merged/debug/layout_activity_rucula.xml.flat",
+        "source": "/home/aluno/organic-plantingTCC/MyApplication3/app/src/main/res/layout/activity_rucula.xml"
+    },
+    {
         "merged": "/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1d37298bcbf7e85e6a466323ebf8e04a/res/color/switch_thumb_material_dark.xml"
     },
@@ -1034,6 +1038,10 @@
     {
         "merged": "/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1d37298bcbf7e85e6a466323ebf8e04a/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/res/merged/debug/layout_activity_espinafre.xml.flat",
+        "source": "/home/aluno/organic-plantingTCC/MyApplication3/app/src/main/res/layout/activity_espinafre.xml"
     },
     {
         "merged": "/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1682,6 +1690,10 @@
     {
         "merged": "/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1d37298bcbf7e85e6a466323ebf8e04a/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/res/merged/debug/layout_activity_salsa.xml.flat",
+        "source": "/home/aluno/organic-plantingTCC/MyApplication3/app/src/main/res/layout/activity_salsa.xml"
     },
     {
         "merged": "/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",

@@ -1,9 +1,16 @@
 -- Merging decision tree log ---
 manifest
+<<<<<<< HEAD
 ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-44:12
 INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-44:12
 INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-44:12
 INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-44:12
+=======
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
+>>>>>>> c48fc840b9020dd1c1dcd4361ec9755b03f11c2c
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1d37298bcbf7e85e6a466323ebf8e04a/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aluno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/96c68719647d54e86aac3cad3ed3c8b8/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/194e4c08bb36dfe710d160fc1c90a979/AndroidManifest.xml:17:1-22:12
@@ -31,25 +38,43 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/aluno/.gradle/caches/t
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aluno/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/82972a230cb30d9b9f3b45dda2cd36af/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /home/aluno/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6eb5fc6b17094cba1e9d02a09d1335c3/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/92f0522525addb196c16f61a706f0065/AndroidManifest.xml:17:1-22:12
+<<<<<<< HEAD
 INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-44:12
 INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-44:12
 INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-44:12
+=======
+INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
+>>>>>>> c48fc840b9020dd1c1dcd4361ec9755b03f11c2c
 	package
 		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:3:5-46
 		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
 		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
+<<<<<<< HEAD
 		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-44:12
 		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
 		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-44:12
+=======
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
+>>>>>>> c48fc840b9020dd1c1dcd4361ec9755b03f11c2c
 		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:11-69
 application
+<<<<<<< HEAD
 ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:5:5-42:19
+=======
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:5:5-45:19
+>>>>>>> c48fc840b9020dd1c1dcd4361ec9755b03f11c2c
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aluno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/96c68719647d54e86aac3cad3ed3c8b8/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aluno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/96c68719647d54e86aac3cad3ed3c8b8/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7cc253cd4d69c0a3722ea9f61c149e69/AndroidManifest.xml:22:5-94
@@ -173,9 +198,27 @@ ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidMa
 	android:name
 		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:40:19-42
 activity#com.example.mathe.myapplication.cebolinha1
+<<<<<<< HEAD
 ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:41:9-57
 	android:name
 		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:41:19-45
+=======
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:41:9-48
+	android:name
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:41:19-45
+activity#com.example.mathe.myapplication.rucula
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:42:9-44
+	android:name
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:42:19-41
+activity#com.example.mathe.myapplication.salsa
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:43:9-43
+	android:name
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:43:19-40
+activity#com.example.mathe.myapplication.espinafre
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:44:9-56
+	android:name
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:44:19-44
+>>>>>>> c48fc840b9020dd1c1dcd4361ec9755b03f11c2c
 uses-sdk
 INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml

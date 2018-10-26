@@ -3659,6 +3659,7 @@ public final class R {
     public static final int activity_cebolinha1=0x7f090020;
     public static final int activity_cenoura1=0x7f090021;
     public static final int activity_coentro=0x7f090022;
+<<<<<<< HEAD
     public static final int activity_hinverno=0x7f090023;
     public static final int activity_houtono=0x7f090024;
     public static final int activity_hprimavera=0x7f090025;
@@ -3685,6 +3686,37 @@ public final class R {
     public static final int select_dialog_multichoice_material=0x7f09003a;
     public static final int select_dialog_singlechoice_material=0x7f09003b;
     public static final int support_simple_spinner_dropdown_item=0x7f09003c;
+=======
+    public static final int activity_espinafre=0x7f090023;
+    public static final int activity_hinverno=0x7f090024;
+    public static final int activity_houtono=0x7f090025;
+    public static final int activity_hprimavera=0x7f090026;
+    public static final int activity_hprimavera2=0x7f090027;
+    public static final int activity_hverao=0x7f090028;
+    public static final int activity_hverao2=0x7f090029;
+    public static final int activity_main=0x7f09002a;
+    public static final int activity_melancia1=0x7f09002b;
+    public static final int activity_mostarda=0x7f09002c;
+    public static final int activity_mostarda_verao=0x7f09002d;
+    public static final int activity_pimentao1=0x7f09002e;
+    public static final int activity_rabanete=0x7f09002f;
+    public static final int activity_rucula=0x7f090030;
+    public static final int activity_salsa=0x7f090031;
+    public static final int activity_tela2=0x7f090032;
+    public static final int activity_tela3=0x7f090033;
+    public static final int activity_tela4=0x7f090034;
+    public static final int activity_tomate1=0x7f090035;
+    public static final int notification_action=0x7f090036;
+    public static final int notification_action_tombstone=0x7f090037;
+    public static final int notification_template_custom_big=0x7f090038;
+    public static final int notification_template_icon_group=0x7f090039;
+    public static final int notification_template_part_chronometer=0x7f09003a;
+    public static final int notification_template_part_time=0x7f09003b;
+    public static final int select_dialog_item_material=0x7f09003c;
+    public static final int select_dialog_multichoice_material=0x7f09003d;
+    public static final int select_dialog_singlechoice_material=0x7f09003e;
+    public static final int support_simple_spinner_dropdown_item=0x7f09003f;
+>>>>>>> c48fc840b9020dd1c1dcd4361ec9755b03f11c2c
   }
   public static final class mipmap {
     public static final int ic_launcher=0x7f0a0000;

@@ -36,7 +36,10 @@
         <activity android:name=".tomate1" />
         <activity android:name=".rabanete" />
         <activity android:name=".coentro" />
-        <activity android:name=".cebolinha1"></activity>
+        <activity android:name=".cebolinha1" />
+        <activity android:name=".rucula" />
+        <activity android:name=".salsa" />
+        <activity android:name=".espinafre"></activity>
     </application>
 
 </manifest>

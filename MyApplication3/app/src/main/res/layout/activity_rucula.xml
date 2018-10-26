@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo"
+    tools:context=".rucula">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="390dp"
+                android:layout_height="244dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="64dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/texto" />
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="315dp"
+                android:layout_height="32dp"
+                android:layout_marginTop="8dp"
+                android:text="Clima"
+                android:textAlignment="center"
+                android:textColor="#00FF00"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/imageView9"
+                app:layout_constraintStart_toStartOf="@+id/imageView9"
+                app:layout_constraintTop_toTopOf="@+id/imageView9" />
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="317dp"
+                android:layout_height="181dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="A rúcula é uma hortaliça que cresce melhor em um clima com temperaturas que variam entre 16 e 22°C, quando a rúcula é cultivada em temperaturas mais elevadas sua floração pode ocorrer precocemente, além de deixar suas folhas com um sabor amargo."
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView9"
+                app:layout_constraintEnd_toEndOf="@+id/imageView9"
+                app:layout_constraintStart_toStartOf="@+id/imageView9"
+                app:layout_constraintTop_toBottomOf="@+id/textView15" />
+
+            <ImageView
+                android:id="@+id/imageView15"
+                android:layout_width="385dp"
+                android:layout_height="239dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="64dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView9"
+                app:srcCompat="@drawable/texto" />
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="315dp"
+                android:layout_height="32dp"
+                android:layout_marginTop="8dp"
+                android:text="Luminosidade"
+                android:textAlignment="center"
+                android:textColor="#00FF00"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/imageView15"
+                app:layout_constraintStart_toStartOf="@+id/imageView15"
+                app:layout_constraintTop_toTopOf="@+id/imageView15" />
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="317dp"
+                android:layout_height="133dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:text=" No outono e inverno pode ser cultivada com sol direto o dia todo, já no verão ela deve ser cultiva em um local que possa oferecer sombra parcial durante os períodos mais quentes do dia ."
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView15"
+                app:layout_constraintEnd_toEndOf="@+id/imageView15"
+                app:layout_constraintStart_toStartOf="@+id/imageView15"
+                app:layout_constraintTop_toBottomOf="@+id/textView16" />
+
+            <ImageView
+                android:id="@+id/imageView16"
+                android:layout_width="388dp"
+                android:layout_height="241dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="64dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView15"
+                app:srcCompat="@drawable/texto" />
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="315dp"
+                android:layout_height="32dp"
+                android:layout_marginTop="8dp"
+                android:text="Solo"
+                android:textAlignment="center"
+                android:textColor="#00FF00"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/imageView16"
+                app:layout_constraintStart_toStartOf="@+id/imageView16"
+                app:layout_constraintTop_toTopOf="@+id/imageView16" />
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="317dp"
+                android:layout_height="179dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="O solo deve ser bem drenado, fértil, rico em matéria orgânica."
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView16"
+                app:layout_constraintEnd_toEndOf="@+id/imageView16"
+                app:layout_constraintStart_toStartOf="@+id/imageView16"
+                app:layout_constraintTop_toBottomOf="@+id/textView19" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="382dp"
+                android:layout_height="245dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="64dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView16"
+                app:srcCompat="@drawable/texto" />
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="315dp"
+                android:layout_height="32dp"
+                android:layout_marginTop="8dp"
+                android:text="Irrigação"
+                android:textAlignment="center"
+                android:textColor="#00FF00"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/imageView6"
+                app:layout_constraintStart_toStartOf="@+id/imageView6"
+                app:layout_constraintTop_toTopOf="@+id/imageView6" />
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="317dp"
+                android:layout_height="105dp"
+                android:text="Irrigação deve ser feita de maneira a manter o solo sempre úmido, mas com o cuidado de não o deixar encharcado."
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/imageView6"
+                app:layout_constraintHorizontal_bias="0.538"
+                app:layout_constraintStart_toStartOf="@+id/imageView6"
+                app:layout_constraintTop_toBottomOf="@+id/textView21" />
+
+            <TextView
+                android:id="@+id/textView23"
+                android:layout_width="323dp"
+                android:layout_height="84dp"
+                android:layout_marginTop="8dp"
+                android:text="Retirar isso não precisa "
+                android:textAlignment="center"
+                android:textColor="#FF0000"
+                android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/imageView6"
+            app:layout_constraintStart_toStartOf="@+id/imageView6"
+            app:layout_constraintTop_toBottomOf="@+id/textView22" />
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="387dp"
+                android:layout_height="241dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="64dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView6"
+                app:srcCompat="@drawable/texto" />
+
+            <ImageView
+                android:id="@+id/imageView14"
+                android:layout_width="384dp"
+                android:layout_height="245dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="210dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/imageView7"
+                app:srcCompat="@drawable/texto" />
+
+            <TextView
+                android:id="@+id/textView24"
+                android:layout_width="313dp"
+                android:layout_height="32dp"
+                android:layout_marginTop="8dp"
+                android:text="Plantio"
+                android:textAlignment="center"
+                android:textColor="#00FF00"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/imageView7"
+                app:layout_constraintStart_toStartOf="@+id/imageView7"
+                app:layout_constraintTop_toTopOf="@+id/imageView7" />
+
+            <TextView
+                android:id="@+id/textView25"
+                android:layout_width="330dp"
+                android:layout_height="402dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:text="Semeie as sementes diretamente no local definitivo, superficialmente ou a uma profundidade não superior a 0,5 cm no solo. As sementes germinam entre 4 á 8 dias. Quando as plantas atingirem cerca de 10 cm de altura, o excesso de plantas pode ser colhido para que seja atingido um espaçamento adequado. Além disso as sementes também pode ser plantadas em sementeiras e transportadas para para o local definitivo de plantio quando atingiregem o estado de muda."
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/imageView14"
+                app:layout_constraintStart_toStartOf="@+id/imageView7"
+                app:layout_constraintTop_toBottomOf="@+id/textView24" />
+
+            <Button
+                android:id="@+id/button15"
+                android:layout_width="326dp"
+                android:layout_height="53dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="64dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/madeira"
+                android:onClick="VoltarTela"
+                android:text="Voltar"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView14" />
+
+        </android.support.constraint.ConstraintLayout>
+    </ScrollView>
+
+</LinearLayout>

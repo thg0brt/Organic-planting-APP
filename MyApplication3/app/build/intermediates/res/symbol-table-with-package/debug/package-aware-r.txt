@@ -901,6 +901,7 @@ layout activity_beterraba
 layout activity_cebolinha1
 layout activity_cenoura1
 layout activity_coentro
+layout activity_espinafre
 layout activity_hinverno
 layout activity_houtono
 layout activity_hprimavera
@@ -913,6 +914,8 @@ layout activity_mostarda
 layout activity_mostarda_verao
 layout activity_pimentao1
 layout activity_rabanete
+layout activity_rucula
+layout activity_salsa
 layout activity_tela2
 layout activity_tela3
 layout activity_tela4

@@ -47,6 +47,9 @@
         <activity android:name="com.example.mathe.myapplication.rabanete" />
         <activity android:name="com.example.mathe.myapplication.coentro" />
         <activity android:name="com.example.mathe.myapplication.cebolinha1" />
+        <activity android:name="com.example.mathe.myapplication.rucula" />
+        <activity android:name="com.example.mathe.myapplication.salsa" />
+        <activity android:name="com.example.mathe.myapplication.espinafre" />
     </application>
 
 </manifest>
