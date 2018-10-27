@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Fri Oct 26 15:44:28 BRST 2018
+#Sat Oct 27 14:14:22 BRST 2018
 0.baseType=DIRECTORY
-0.base=C\:\\Users\\mathe\\Desktop\\MyApplication3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.base=C\:\\Users\\mathe\\Documents\\organic-plantingTCC\\MyApplication3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex
 0.set=DEX
 count=1

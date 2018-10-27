@@ -51,6 +51,8 @@
         <activity android:name="com.example.mathe.myapplication.rucula" />
         <activity android:name="com.example.mathe.myapplication.espinafre" />
         <activity android:name="com.example.mathe.myapplication.salsa" />
+        <activity android:name="com.example.mathe.myapplication.Ppragas" />
+        <activity android:name="com.example.mathe.myapplication.Cpragas" />
     </application>
 
 </manifest>

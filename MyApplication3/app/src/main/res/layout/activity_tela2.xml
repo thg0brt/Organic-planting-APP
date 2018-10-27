@@ -11,8 +11,9 @@
         android:id="@+id/bOrtaliças"
         android:layout_width="290dp"
         android:layout_height="58dp"
-        android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="8dp"
         android:background="@drawable/madeira"
         android:onClick="irHortaliças"
         android:text="Hortaliças"
@@ -21,20 +22,18 @@
         android:textColor="#FFFFFF"
         android:textSize="30sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.508"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.58" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
 
     <Button
-        android:id="@+id/bInsumos"
+        android:id="@+id/binsumo"
         android:layout_width="290dp"
         android:layout_height="58dp"
-        android:layout_marginBottom="108dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="32dp"
         android:layout_marginEnd="8dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
         android:background="@drawable/madeira"
         android:text="Insumos"
         android:textAlignment="center"
@@ -42,21 +41,42 @@
         android:textColor="#FFFFFF"
         android:textSize="30sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.484"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/bOrtaliças" />
+
+    <Button
+        android:id="@+id/bcuidados"
+        android:layout_width="290dp"
+        android:layout_height="58dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="8dp"
+        android:background="@drawable/madeira"
+        android:onClick="ppragas"
+        android:text="Cuidados com a horta"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.508"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/binsumo" />
 
     <Button
         android:id="@+id/bPesticida"
         android:layout_width="290dp"
         android:layout_height="58dp"
-        android:layout_marginBottom="28dp"
-        android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="28dp"
         android:background="@drawable/madeira"
-        android:text="Pesticidas"
+        android:onClick="CombateP"
+        android:text="Combate á pragas"
         android:textAlignment="center"
         android:textAllCaps="false"
         android:textColor="#FFFFFF"
@@ -65,7 +85,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/bInsumos" />
+        app:layout_constraintTop_toBottomOf="@+id/bcuidados"
+        app:layout_constraintVertical_bias="0.0" />
 
     <android.support.constraint.Guideline
         android:id="@+id/guideline"
@@ -85,14 +106,11 @@
         android:id="@+id/imageView2"
         android:layout_width="293dp"
         android:layout_height="84dp"
-        android:layout_marginBottom="8dp"
         android:layout_marginTop="16dp"
-        app:layout_constraintBottom_toTopOf="@+id/bOrtaliças"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.505"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.064"
         app:srcCompat="@drawable/madeira" />
 
     <TextView

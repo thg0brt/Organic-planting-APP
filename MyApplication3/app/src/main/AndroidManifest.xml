@@ -41,7 +41,9 @@
         <activity android:name=".cebolinha1" />
         <activity android:name=".rucula" />
         <activity android:name=".espinafre" />
-        <activity android:name=".salsa"></activity>
+        <activity android:name=".salsa" />
+        <activity android:name=".Ppragas" />
+        <activity android:name=".Cpragas"></activity>
     </application>
 
 </manifest>
