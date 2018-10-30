@@ -14,7 +14,7 @@ public class berinjela1 extends AppCompatActivity {
         setContentView(R.layout.activity_berinjela1);
     }
     public void VoltarTela(View view){
-        Intent primavera = new Intent(getApplicationContext(),Hprimavera2.class);
+        Intent primavera = new Intent(getApplicationContext(),Hprimavera.class);
         startActivity(primavera);
         finish();
     }

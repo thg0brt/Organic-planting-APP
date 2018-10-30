@@ -32,11 +32,11 @@
                 android:layout_width="408dp"
                 android:layout_height="248dp"
                 android:layout_marginStart="8dp"
-                android:layout_marginTop="64dp"
+                android:layout_marginTop="52dp"
                 android:layout_marginEnd="8dp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView36"
                 app:srcCompat="@drawable/texto" />
 
             <TextView
@@ -330,6 +330,34 @@
                 app:layout_constraintStart_toStartOf="@+id/imageView13"
                 app:layout_constraintTop_toBottomOf="@+id/textView7"
                 app:layout_constraintVertical_bias="0.0" />
+
+            <ImageView
+                android:id="@+id/imageView36"
+                android:layout_width="326dp"
+                android:layout_height="148dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/mostarda" />
+
+            <TextView
+                android:id="@+id/textView45"
+                android:layout_width="195dp"
+                android:layout_height="33dp"
+                android:text="Mostarda"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView36"
+                app:layout_constraintEnd_toEndOf="@+id/imageView36"
+                app:layout_constraintHorizontal_bias="0.832"
+                app:layout_constraintStart_toStartOf="@+id/imageView36"
+                app:layout_constraintTop_toTopOf="@+id/imageView36"
+                app:layout_constraintVertical_bias="0.495" />
 
         </android.support.constraint.ConstraintLayout>
     </ScrollView>

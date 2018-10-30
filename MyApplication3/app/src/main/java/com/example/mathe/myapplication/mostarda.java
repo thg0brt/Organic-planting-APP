@@ -15,7 +15,7 @@ public class mostarda extends AppCompatActivity {
     }
     public void VoltarTela(View view){
 
-        Intent primavera = new Intent(getApplicationContext(),tela3.class);
+        Intent primavera = new Intent(getApplicationContext(),Hprimavera.class);
         startActivity(primavera);
         finish();
 

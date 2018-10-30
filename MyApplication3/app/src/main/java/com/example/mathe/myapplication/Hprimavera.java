@@ -14,20 +14,6 @@ public class Hprimavera extends AppCompatActivity {
         setContentView(R.layout.activity_hprimavera);
     }
 
-    public void VoltarH(View view){
-
-        Intent H = new Intent(getApplicationContext(),tela3.class);
-        startActivity(H);
-        finish();
-
-    }
-    public void IrTela(View view){
-
-        Intent irTela = new Intent(getApplicationContext(),Hprimavera2.class);
-        startActivity(irTela);
-        finish();
-
-    }
     public void Abobora(View view){
 
         Intent abobora = new Intent(getApplicationContext(),abobora1.class);
@@ -51,8 +37,8 @@ public class Hprimavera extends AppCompatActivity {
     }
     public void Agriao(View view){
 
-        Intent tomate = new Intent(getApplicationContext(),agriao.class);
-        startActivity(tomate);
+        Intent agriao = new Intent(getApplicationContext(),agriao.class);
+        startActivity(agriao);
         finish();
 
     }
@@ -69,5 +55,24 @@ public class Hprimavera extends AppCompatActivity {
         startActivity(pimentao);
         finish();
 
+    }
+    public void Berinjela(View view){
+
+        Intent berinjela = new Intent(getApplicationContext(),berinjela1.class);
+        startActivity(berinjela);
+        finish();
+
+    }
+    public void Mostarda(View view){
+
+        Intent mostarda = new Intent(getApplicationContext(),mostarda.class);
+        startActivity(mostarda);
+        finish();
+
+    }
+    public void VoltarTela(View view){
+        Intent voltar = new Intent(getApplicationContext(),tela3.class);
+        startActivity(voltar);
+        finish();
     }
 }
