@@ -27,9 +27,7 @@
         </activity>
         <activity android:name="com.example.mathe.myapplication.tela2" />
         <activity android:name="com.example.mathe.myapplication.tela3" />
-        <activity android:name="com.example.mathe.myapplication.tela4" />
         <activity android:name="com.example.mathe.myapplication.Hprimavera" />
-        <activity android:name="com.example.mathe.myapplication.Hprimavera2" />
         <activity android:name="com.example.mathe.myapplication.pientao2" />
         <activity android:name="com.example.mathe.myapplication.mostarda" />
         <activity android:name="com.example.mathe.myapplication.Hverao" />

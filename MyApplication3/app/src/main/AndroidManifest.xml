@@ -18,9 +18,7 @@
         </activity>
         <activity android:name=".tela2" />
         <activity android:name=".tela3" />
-        <activity android:name=".tela4" />
         <activity android:name=".Hprimavera" />
-        <activity android:name=".Hprimavera2" />
         <activity android:name=".pientao2" />
         <activity android:name=".mostarda" />
         <activity android:name=".Hverao" />

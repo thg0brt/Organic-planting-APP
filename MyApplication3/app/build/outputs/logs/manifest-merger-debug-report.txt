@@ -1,266 +1,258 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:2:1-49:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\64792c18d265e7d27b1bda0c068dce62\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\77146ec6a5dd9bb8d5f475f2ecadd4b2\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\cb269f2644a1ea73d19cf4c83caf1e6f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\c11fd3d6aea3705d52017cac35ef1b35\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1076d9ae99e6ca77b2cd211b00562c94\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4f4109e9411664892cbba83ddf80d822\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\73477377082b9359160a5b4dfdab9fe2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c9065419210d1d67d561011e16eafe8a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d96005c731d18a6721a737f5169eddea\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cde8696b3045ec36738a5bb31d0dfa24\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f4d24400f6f48a1e0e589de71f2f6c87\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e881ca9e6a665a3e0e481271d584862e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\05d6c373f0a34023e0e54bd053525844\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8b5d27021e21ce71394e13e2297981d7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\357a687f4399b654faa895d1a25c8071\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a1f8c3ba96bc26dc4793e530380eb0f1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1e56165fd083ff9ced7fa1742f49ee1f\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\411b8ed75f5d04bc8f288dabb3980e24\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d9acb8d1f730488245a223ff0ddee0d1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\2ab4b64a321cb0e349f63057ea8a27a3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\85dab385a5fa79eab3811113bb9830a5\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a437d36a478ebdc79de1c77f313b2f08\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\54c58f92e68f5286925593dceb7969d7\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4bab05e4624ae8b4aa082412b253b082\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c9e91650abd6fbaeda312d8af1893a28\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2d92e19b979af5fd15a2cd829850edbd\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\25c6ad70d5e8dfaab305d66877beba2f\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:2:1-49:12
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1d37298bcbf7e85e6a466323ebf8e04a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aluno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/96c68719647d54e86aac3cad3ed3c8b8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/194e4c08bb36dfe710d160fc1c90a979/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/566c90a737a3decf455d7b66a0e275b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c8cfd6f3fd5a862f188f6d7638288efd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/89f8622da67ece017a33ce2dffb7e5c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e5dea93d0afedbff5c4415e0dfe4656d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/44b5958b77ca3e9f3ecd8d27e22f6e78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c8af126af2ecf2bfa462669a444567c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e25c33e4894ef40f48064acf4d0edbc2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8bbff00ba55b70a7e3a851b2a32453fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/99522edc27514d988f6815d54e09942e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b9c82a00b47db5506eb23a2063ca50a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3eafc4d2b4bd85f06e7d07b6116bd72c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ddc5501b258631395f079a34612427b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7cc253cd4d69c0a3722ea9f61c149e69/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/109f24f1cd734578d7b85142129181c1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7d229e38ab6df3a0c890bc9993a5fd72/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/aluno/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1f5d62a1cae626ab6207bfba968986ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/be87ecaf93758a85686959e58b0c2186/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f2fbffa9f8153369a7d297c648270365/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6bf70e00f3574ff322449434e949f841/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/aluno/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3f384feb6f9ca6eb8eab1d367048822b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/aluno/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2b81012e7388c9dab09d9fbfed2e9d4c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aluno/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/82972a230cb30d9b9f3b45dda2cd36af/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/aluno/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6eb5fc6b17094cba1e9d02a09d1335c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/92f0522525addb196c16f61a706f0065/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
 	package
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:3:5-46
-		INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:2:1-49:12
-		INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml
+		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:2:1-49:12
-		INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml
+		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:5:5-47:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\77146ec6a5dd9bb8d5f475f2ecadd4b2\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\77146ec6a5dd9bb8d5f475f2ecadd4b2\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a1f8c3ba96bc26dc4793e530380eb0f1\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a1f8c3ba96bc26dc4793e530380eb0f1\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1e56165fd083ff9ced7fa1742f49ee1f\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1e56165fd083ff9ced7fa1742f49ee1f\AndroidManifest.xml:22:5-23:19
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:5:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aluno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/96c68719647d54e86aac3cad3ed3c8b8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aluno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/96c68719647d54e86aac3cad3ed3c8b8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7cc253cd4d69c0a3722ea9f61c149e69/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7cc253cd4d69c0a3722ea9f61c149e69/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/109f24f1cd734578d7b85142129181c1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/109f24f1cd734578d7b85142129181c1/AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a1f8c3ba96bc26dc4793e530380eb0f1\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7cc253cd4d69c0a3722ea9f61c149e69/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.example.mathe.myapplication.MainActivity
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:16:27-74
 activity#com.example.mathe.myapplication.tela2
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:19:9-43
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:19:9-43
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:19:19-40
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:19:19-40
 activity#com.example.mathe.myapplication.tela3
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:20:9-43
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:20:9-43
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:20:19-40
-activity#com.example.mathe.myapplication.tela4
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:21:9-43
-	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:21:19-40
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:20:19-40
 activity#com.example.mathe.myapplication.Hprimavera
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:22:9-48
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:21:9-48
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:22:19-45
-activity#com.example.mathe.myapplication.Hprimavera2
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:23:9-49
-	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:23:19-46
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:21:19-45
 activity#com.example.mathe.myapplication.pientao2
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:24:9-46
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:22:9-46
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:24:19-43
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:22:19-43
 activity#com.example.mathe.myapplication.mostarda
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:25:9-46
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:23:9-46
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:25:19-43
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:23:19-43
 activity#com.example.mathe.myapplication.Hverao
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:26:9-44
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:26:19-41
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:24:19-41
 activity#com.example.mathe.myapplication.Hverao2
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:27:9-45
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:25:9-45
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:27:19-42
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:25:19-42
 activity#com.example.mathe.myapplication.Houtono
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:28:9-45
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:26:9-45
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:28:19-42
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:26:19-42
 activity#com.example.mathe.myapplication.Hinverno
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:29:9-46
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:27:9-46
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:29:19-43
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:27:19-43
 activity#com.example.mathe.myapplication.beterraba
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:30:9-47
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:28:9-47
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:30:19-44
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:28:19-44
 activity#com.example.mathe.myapplication.mostardaVerao
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:31:9-51
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:29:9-51
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:31:19-48
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:29:19-48
 activity#com.example.mathe.myapplication.abobora1
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:32:9-46
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:30:9-46
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:32:19-43
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:30:19-43
 activity#com.example.mathe.myapplication.agriao
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:33:9-44
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:31:9-44
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:33:19-41
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:31:19-41
 activity#com.example.mathe.myapplication.berinjela1
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:34:9-48
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:32:9-48
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:34:19-45
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:32:19-45
 activity#com.example.mathe.myapplication.cenoura1
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:35:9-46
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:33:9-46
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:35:19-43
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:33:19-43
 activity#com.example.mathe.myapplication.melancia1
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:36:9-47
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:34:9-47
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:36:19-44
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:34:19-44
 activity#com.example.mathe.myapplication.pimentao1
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:37:9-47
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:35:9-47
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:37:19-44
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:35:19-44
 activity#com.example.mathe.myapplication.tomate1
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:38:9-45
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:36:9-45
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:38:19-42
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:36:19-42
 activity#com.example.mathe.myapplication.rabanete
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:39:9-46
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:37:9-46
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:39:19-43
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:37:19-43
 activity#com.example.mathe.myapplication.coentro
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:40:9-45
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:38:9-45
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:40:19-42
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:38:19-42
 activity#com.example.mathe.myapplication.cebolinha1
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:41:9-48
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:39:9-48
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:41:19-45
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:39:19-45
 activity#com.example.mathe.myapplication.rucula
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:42:9-44
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:40:9-44
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:42:19-41
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:40:19-41
 activity#com.example.mathe.myapplication.espinafre
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:43:9-47
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:41:9-47
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:43:19-44
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:41:19-44
 activity#com.example.mathe.myapplication.salsa
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:44:9-43
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:42:9-43
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:44:19-40
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:42:19-40
 activity#com.example.mathe.myapplication.Ppragas
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:45:9-45
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:43:9-45
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:45:19-42
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:43:19-42
 activity#com.example.mathe.myapplication.Cpragas
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:46:9-54
+ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:44:9-54
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:46:19-42
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml:44:19-42
 uses-sdk
-INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\64792c18d265e7d27b1bda0c068dce62\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\64792c18d265e7d27b1bda0c068dce62\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\77146ec6a5dd9bb8d5f475f2ecadd4b2\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\77146ec6a5dd9bb8d5f475f2ecadd4b2\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\cb269f2644a1ea73d19cf4c83caf1e6f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\cb269f2644a1ea73d19cf4c83caf1e6f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\c11fd3d6aea3705d52017cac35ef1b35\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\c11fd3d6aea3705d52017cac35ef1b35\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1076d9ae99e6ca77b2cd211b00562c94\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1076d9ae99e6ca77b2cd211b00562c94\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4f4109e9411664892cbba83ddf80d822\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4f4109e9411664892cbba83ddf80d822\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\73477377082b9359160a5b4dfdab9fe2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\73477377082b9359160a5b4dfdab9fe2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c9065419210d1d67d561011e16eafe8a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c9065419210d1d67d561011e16eafe8a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d96005c731d18a6721a737f5169eddea\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d96005c731d18a6721a737f5169eddea\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cde8696b3045ec36738a5bb31d0dfa24\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cde8696b3045ec36738a5bb31d0dfa24\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f4d24400f6f48a1e0e589de71f2f6c87\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f4d24400f6f48a1e0e589de71f2f6c87\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e881ca9e6a665a3e0e481271d584862e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e881ca9e6a665a3e0e481271d584862e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\05d6c373f0a34023e0e54bd053525844\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\05d6c373f0a34023e0e54bd053525844\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8b5d27021e21ce71394e13e2297981d7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8b5d27021e21ce71394e13e2297981d7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\357a687f4399b654faa895d1a25c8071\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\357a687f4399b654faa895d1a25c8071\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a1f8c3ba96bc26dc4793e530380eb0f1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a1f8c3ba96bc26dc4793e530380eb0f1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1e56165fd083ff9ced7fa1742f49ee1f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1e56165fd083ff9ced7fa1742f49ee1f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\411b8ed75f5d04bc8f288dabb3980e24\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\411b8ed75f5d04bc8f288dabb3980e24\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d9acb8d1f730488245a223ff0ddee0d1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d9acb8d1f730488245a223ff0ddee0d1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\2ab4b64a321cb0e349f63057ea8a27a3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\2ab4b64a321cb0e349f63057ea8a27a3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\85dab385a5fa79eab3811113bb9830a5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\85dab385a5fa79eab3811113bb9830a5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a437d36a478ebdc79de1c77f313b2f08\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a437d36a478ebdc79de1c77f313b2f08\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\54c58f92e68f5286925593dceb7969d7\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\54c58f92e68f5286925593dceb7969d7\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4bab05e4624ae8b4aa082412b253b082\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4bab05e4624ae8b4aa082412b253b082\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c9e91650abd6fbaeda312d8af1893a28\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c9e91650abd6fbaeda312d8af1893a28\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2d92e19b979af5fd15a2cd829850edbd\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2d92e19b979af5fd15a2cd829850edbd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\25c6ad70d5e8dfaab305d66877beba2f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\mathe\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\25c6ad70d5e8dfaab305d66877beba2f\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml
+INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
+INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1d37298bcbf7e85e6a466323ebf8e04a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1d37298bcbf7e85e6a466323ebf8e04a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aluno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/96c68719647d54e86aac3cad3ed3c8b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aluno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/96c68719647d54e86aac3cad3ed3c8b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/194e4c08bb36dfe710d160fc1c90a979/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/194e4c08bb36dfe710d160fc1c90a979/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/566c90a737a3decf455d7b66a0e275b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/566c90a737a3decf455d7b66a0e275b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c8cfd6f3fd5a862f188f6d7638288efd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c8cfd6f3fd5a862f188f6d7638288efd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/89f8622da67ece017a33ce2dffb7e5c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/89f8622da67ece017a33ce2dffb7e5c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e5dea93d0afedbff5c4415e0dfe4656d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e5dea93d0afedbff5c4415e0dfe4656d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/44b5958b77ca3e9f3ecd8d27e22f6e78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/44b5958b77ca3e9f3ecd8d27e22f6e78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c8af126af2ecf2bfa462669a444567c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c8af126af2ecf2bfa462669a444567c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e25c33e4894ef40f48064acf4d0edbc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e25c33e4894ef40f48064acf4d0edbc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8bbff00ba55b70a7e3a851b2a32453fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8bbff00ba55b70a7e3a851b2a32453fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/99522edc27514d988f6815d54e09942e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/99522edc27514d988f6815d54e09942e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b9c82a00b47db5506eb23a2063ca50a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b9c82a00b47db5506eb23a2063ca50a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3eafc4d2b4bd85f06e7d07b6116bd72c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3eafc4d2b4bd85f06e7d07b6116bd72c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ddc5501b258631395f079a34612427b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ddc5501b258631395f079a34612427b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7cc253cd4d69c0a3722ea9f61c149e69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7cc253cd4d69c0a3722ea9f61c149e69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/109f24f1cd734578d7b85142129181c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/109f24f1cd734578d7b85142129181c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7d229e38ab6df3a0c890bc9993a5fd72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7d229e38ab6df3a0c890bc9993a5fd72/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/aluno/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1f5d62a1cae626ab6207bfba968986ba/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/aluno/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1f5d62a1cae626ab6207bfba968986ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/be87ecaf93758a85686959e58b0c2186/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/be87ecaf93758a85686959e58b0c2186/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f2fbffa9f8153369a7d297c648270365/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f2fbffa9f8153369a7d297c648270365/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6bf70e00f3574ff322449434e949f841/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6bf70e00f3574ff322449434e949f841/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/aluno/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3f384feb6f9ca6eb8eab1d367048822b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/aluno/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3f384feb6f9ca6eb8eab1d367048822b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/aluno/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2b81012e7388c9dab09d9fbfed2e9d4c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/aluno/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2b81012e7388c9dab09d9fbfed2e9d4c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aluno/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/82972a230cb30d9b9f3b45dda2cd36af/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aluno/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/82972a230cb30d9b9f3b45dda2cd36af/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/aluno/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6eb5fc6b17094cba1e9d02a09d1335c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/aluno/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6eb5fc6b17094cba1e9d02a09d1335c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/92f0522525addb196c16f61a706f0065/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/92f0522525addb196c16f61a706f0065/AndroidManifest.xml:20:5-44
+INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
+INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml
+		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml
+		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
+		ADDED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aluno/organic-plantingTCC/MyApplication3/app/src/main/AndroidManifest.xml

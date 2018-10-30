@@ -27,15 +27,12 @@
         </activity>
         <activity android:name="com.example.mathe.myapplication.tela2" />
         <activity android:name="com.example.mathe.myapplication.tela3" />
-        <activity android:name="com.example.mathe.myapplication.tela4" />
         <activity android:name="com.example.mathe.myapplication.Hprimavera" />
-        <activity android:name="com.example.mathe.myapplication.Hprimavera2" />
         <activity android:name="com.example.mathe.myapplication.pientao2" />
         <activity android:name="com.example.mathe.myapplication.mostarda" />
         <activity android:name="com.example.mathe.myapplication.Hverao" />
         <activity android:name="com.example.mathe.myapplication.Hverao2" />
         <activity android:name="com.example.mathe.myapplication.Houtono" />
-        <activity android:name="com.example.mathe.myapplication.Houtono2" />
         <activity android:name="com.example.mathe.myapplication.Hinverno" />
         <activity android:name="com.example.mathe.myapplication.beterraba" />
         <activity android:name="com.example.mathe.myapplication.mostardaVerao" />
@@ -49,6 +46,11 @@
         <activity android:name="com.example.mathe.myapplication.rabanete" />
         <activity android:name="com.example.mathe.myapplication.coentro" />
         <activity android:name="com.example.mathe.myapplication.cebolinha1" />
+        <activity android:name="com.example.mathe.myapplication.rucula" />
+        <activity android:name="com.example.mathe.myapplication.espinafre" />
+        <activity android:name="com.example.mathe.myapplication.salsa" />
+        <activity android:name="com.example.mathe.myapplication.Ppragas" />
+        <activity android:name="com.example.mathe.myapplication.Cpragas" />
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"

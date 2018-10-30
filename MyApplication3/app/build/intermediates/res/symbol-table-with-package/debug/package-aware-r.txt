@@ -689,7 +689,7 @@ id always
 id async
 id bInverno
 id bMenu
-id bOrtaliças
+id bOrtaliÃ§as
 id bOutono
 id bPesticida
 id bPrimavera
@@ -935,7 +935,6 @@ layout activity_espinafre
 layout activity_hinverno
 layout activity_houtono
 layout activity_hprimavera
-layout activity_hprimavera2
 layout activity_hverao
 layout activity_hverao2
 layout activity_main
@@ -949,7 +948,6 @@ layout activity_rucula
 layout activity_salsa
 layout activity_tela2
 layout activity_tela3
-layout activity_tela4
 layout activity_tomate1
 layout notification_action
 layout notification_action_tombstone
