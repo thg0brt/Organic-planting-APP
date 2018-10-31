@@ -15,7 +15,7 @@ public class cebolinha1 extends AppCompatActivity {
     }
     public void VoltarTela(View view){
 
-        Intent inverno = new Intent(getApplicationContext(),tela3.class);
+        Intent inverno = new Intent(getApplicationContext(),Hverao.class);
         startActivity(inverno);
         finish();
 

@@ -14,23 +14,12 @@ public class Hverao extends AppCompatActivity {
         setContentView(R.layout.activity_hverao);
     }
 
-    public void VoltarH(View view){
-        Intent H = new Intent(getApplicationContext(),tela3.class);
-        startActivity(H);
-        finish();
-    }
-    public void IrTela(View view){
-        Intent irTela = new Intent(getApplicationContext(),Hverao2.class);
-        startActivity(irTela);
-        finish();
-    }
-
     public void beterraba(View view){
         Intent Beterraba = new Intent(getApplicationContext(),beterraba.class);
         startActivity(Beterraba);
         finish();
     }
-    public void mostarda(View view){
+    public void mostardaV(View view){
         Intent Mostarda = new Intent(getApplicationContext(),mostardaVerao.class);
         startActivity(Mostarda);
         finish();
@@ -53,6 +42,28 @@ public class Hverao extends AppCompatActivity {
     public void rucula(View view){
         Intent Rucula = new Intent(getApplicationContext(),rucula.class);
         startActivity(Rucula);
+        finish();
+    }
+    public void mostarda(View view){
+        Intent Mostarda = new Intent(getApplicationContext(),mostardaVerao.class);
+        startActivity(Mostarda);
+        finish();
+    }
+    public void espinafre(View view){
+        Intent Espinafre = new Intent(getApplicationContext(),espinafre.class);
+        startActivity(Espinafre);
+        finish();
+    }
+    public void salsa(View view){
+
+        Intent Salsa = new Intent(getApplicationContext(),salsa.class);
+        startActivity(Salsa);
+        finish();
+
+    }
+    public void VoltarTela(View view){
+        Intent voltar = new Intent(getApplicationContext(),tela3.class);
+        startActivity(voltar);
         finish();
     }
 

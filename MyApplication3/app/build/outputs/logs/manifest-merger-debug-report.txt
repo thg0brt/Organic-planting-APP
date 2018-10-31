@@ -108,86 +108,86 @@ activity#com.example.mathe.myapplication.Hverao
 ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:24:9-44
 	android:name
 		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:24:19-41
-activity#com.example.mathe.myapplication.Hverao2
+activity#com.example.mathe.myapplication.Houtono
 ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:25:9-45
 	android:name
 		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:25:19-42
-activity#com.example.mathe.myapplication.Houtono
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:26:9-45
-	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:26:19-42
 activity#com.example.mathe.myapplication.Hinverno
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:27:9-46
+ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:26:9-46
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:27:19-43
+		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:26:19-43
 activity#com.example.mathe.myapplication.beterraba
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:28:9-47
+ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:27:9-47
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:28:19-44
+		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:27:19-44
 activity#com.example.mathe.myapplication.mostardaVerao
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:29:9-51
+ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:28:9-51
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:29:19-48
+		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:28:19-48
 activity#com.example.mathe.myapplication.abobora1
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:30:9-46
+ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:29:9-46
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:30:19-43
+		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:29:19-43
 activity#com.example.mathe.myapplication.agriao
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:31:9-44
+ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:30:9-44
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:31:19-41
+		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:30:19-41
 activity#com.example.mathe.myapplication.berinjela1
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:32:9-48
+ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:31:9-48
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:32:19-45
+		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:31:19-45
 activity#com.example.mathe.myapplication.cenoura1
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:33:9-46
+ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:32:9-46
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:33:19-43
+		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:32:19-43
 activity#com.example.mathe.myapplication.melancia1
+ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:33:9-47
+	android:name
+		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:33:19-44
+activity#com.example.mathe.myapplication.pimentao1
 ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:34:9-47
 	android:name
 		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:34:19-44
-activity#com.example.mathe.myapplication.pimentao1
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:35:9-47
-	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:35:19-44
 activity#com.example.mathe.myapplication.tomate1
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:36:9-45
+ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:35:9-45
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:36:19-42
+		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:35:19-42
 activity#com.example.mathe.myapplication.rabanete
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:37:9-46
+ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:36:9-46
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:37:19-43
+		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:36:19-43
 activity#com.example.mathe.myapplication.coentro
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:38:9-45
+ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:37:9-45
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:38:19-42
+		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:37:19-42
 activity#com.example.mathe.myapplication.cebolinha1
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:39:9-48
+ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:38:9-48
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:39:19-45
+		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:38:19-45
 activity#com.example.mathe.myapplication.rucula
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:40:9-44
+ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:39:9-44
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:40:19-41
+		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:39:19-41
 activity#com.example.mathe.myapplication.espinafre
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:41:9-47
+ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:40:9-47
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:41:19-44
+		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:40:19-44
 activity#com.example.mathe.myapplication.salsa
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:42:9-43
+ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:41:9-43
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:42:19-40
+		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:41:19-40
 activity#com.example.mathe.myapplication.Ppragas
+ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:42:9-45
+	android:name
+		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:42:19-42
+activity#com.example.mathe.myapplication.Cpragas
 ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:43:9-45
 	android:name
 		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:43:19-42
-activity#com.example.mathe.myapplication.Cpragas
-ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:44:9-54
+activity#com.example.mathe.myapplication.cebolinhaInverno
+ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:44:9-63
 	android:name
-		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:44:19-42
+		ADDED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml:44:19-51
 uses-sdk
 INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\mathe\Documents\organic-plantingTCC\MyApplication3\app\src\main\AndroidManifest.xml

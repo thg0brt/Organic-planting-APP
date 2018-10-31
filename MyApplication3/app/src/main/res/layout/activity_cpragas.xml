@@ -27,7 +27,7 @@
                 app:layout_constraintHorizontal_bias="0.498"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                app:srcCompat="@drawable/ppragas" />
+                app:srcCompat="@drawable/pulgao" />
 
             <TextView
                 android:id="@+id/textView3"
@@ -126,7 +126,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/imageView18"
-                app:srcCompat="@drawable/ppragas" />
+                app:srcCompat="@drawable/fungo" />
 
             <TextView
                 android:id="@+id/textView9"
@@ -210,7 +210,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/imageView20"
-                app:srcCompat="@drawable/ppragas" />
+                app:srcCompat="@drawable/lagarta" />
 
             <TextView
                 android:id="@+id/textView29"
@@ -309,7 +309,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/imageView23"
-                app:srcCompat="@drawable/ppragas" />
+                app:srcCompat="@drawable/acaro" />
 
             <TextView
                 android:id="@+id/textView33"

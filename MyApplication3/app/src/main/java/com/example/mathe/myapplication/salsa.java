@@ -14,7 +14,7 @@ public class salsa extends AppCompatActivity {
         setContentView(R.layout.activity_salsa);
     }
     public void VoltarTela(View view){
-        Intent verao = new Intent(getApplicationContext(),Hverao2.class);
+        Intent verao = new Intent(getApplicationContext(),Hverao.class);
         startActivity(verao);
         finish();
     }

@@ -14,7 +14,7 @@ public class espinafre extends AppCompatActivity {
         setContentView(R.layout.activity_espinafre);
     }
     public void VoltarTela(View view){
-        Intent verao = new Intent(getApplicationContext(),Hverao2.class);
+        Intent verao = new Intent(getApplicationContext(),Hverao.class);
         startActivity(verao);
         finish();
     }

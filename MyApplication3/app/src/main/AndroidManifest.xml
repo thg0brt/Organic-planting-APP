@@ -22,7 +22,6 @@
         <activity android:name=".pientao2" />
         <activity android:name=".mostarda" />
         <activity android:name=".Hverao" />
-        <activity android:name=".Hverao2" />
         <activity android:name=".Houtono" />
         <activity android:name=".Hinverno" />
         <activity android:name=".beterraba" />
@@ -41,7 +40,8 @@
         <activity android:name=".espinafre" />
         <activity android:name=".salsa" />
         <activity android:name=".Ppragas" />
-        <activity android:name=".Cpragas"></activity>
+        <activity android:name=".Cpragas" />
+        <activity android:name=".cebolinhaInverno"></activity>
     </application>
 
 </manifest>
