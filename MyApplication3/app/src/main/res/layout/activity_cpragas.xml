@@ -15,18 +15,19 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
+
             <ImageView
                 android:id="@+id/imageView4"
                 android:layout_width="326dp"
                 android:layout_height="148dp"
                 android:layout_marginStart="8dp"
-                android:layout_marginTop="8dp"
+                android:layout_marginTop="52dp"
                 android:layout_marginEnd="8dp"
                 android:layout_weight="1"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.498"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView43"
                 app:srcCompat="@drawable/pulgao" />
 
             <TextView
@@ -396,6 +397,8 @@
                 app:layout_constraintTop_toBottomOf="@+id/textView35"
                 app:layout_constraintVertical_bias="0.13" />
 
+
+
             <Button
                 android:id="@+id/button15"
                 android:layout_width="326dp"
@@ -417,6 +420,62 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/imageView26"
                 app:layout_constraintVertical_bias="1.0" />
+
+            <ImageView
+                android:id="@+id/imageView42"
+                android:layout_width="326dp"
+                android:layout_height="148dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/ppragas" />
+
+            <ImageView
+                android:id="@+id/imageView43"
+                android:layout_width="402dp"
+                android:layout_height="245dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView42"
+                app:srcCompat="@drawable/texto" />
+
+            <TextView
+                android:id="@+id/textView51"
+                android:layout_width="195dp"
+                android:layout_height="65dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="20dp"
+                android:text="Diversifique a Plantação"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/imageView43"
+                app:layout_constraintEnd_toEndOf="@+id/imageView42"
+                app:layout_constraintHorizontal_bias="0.837"
+                app:layout_constraintStart_toStartOf="@+id/imageView42"
+                app:layout_constraintTop_toTopOf="@+id/imageView42"
+                app:layout_constraintVertical_bias="0.484" />
+
+            <TextView
+                android:id="@+id/textView52"
+                android:layout_width="321dp"
+                android:layout_height="202dp"
+                android:text="Como algumas pragas possuem repulção por alguns tipos de plantas e atração por outras, diversificar a sua horta é uma boa maneira de preveção de pragas, pois se uma hortaliça for infecta as  hortaliças vizinhas correrão menor risco de ser infectadas"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView43"
+                app:layout_constraintEnd_toEndOf="@+id/imageView43"
+                app:layout_constraintStart_toStartOf="@+id/imageView43"
+                app:layout_constraintTop_toTopOf="@+id/imageView43" />
 
         </android.support.constraint.ConstraintLayout>
     </ScrollView>

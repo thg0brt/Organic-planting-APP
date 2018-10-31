@@ -20,12 +20,7 @@ public class tela2 extends AppCompatActivity {
         startActivity(Ortaliças);
 
     }
-    public void ppragas(View view){
 
-        Intent PP = new Intent(getApplicationContext(),Ppragas.class);
-        startActivity(PP);
-
-    }
     public void CombateP(View view){
 
         Intent CP = new Intent(getApplicationContext(),Cpragas.class);

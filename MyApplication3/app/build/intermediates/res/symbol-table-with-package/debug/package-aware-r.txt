@@ -714,7 +714,6 @@ id bPrimavera
 id bSegundaTela
 id bVerao
 id barrier
-id bcuidados
 id beginning
 id binsumo
 id blocking
@@ -802,6 +801,8 @@ id imageView39
 id imageView4
 id imageView40
 id imageView41
+id imageView42
+id imageView43
 id imageView5
 id imageView6
 id imageView7
@@ -919,6 +920,8 @@ id textView48
 id textView49
 id textView5
 id textView50
+id textView51
+id textView52
 id textView6
 id textView7
 id textView8
@@ -987,7 +990,6 @@ layout activity_melancia1
 layout activity_mostarda
 layout activity_mostarda_verao
 layout activity_pimentao1
-layout activity_ppragas
 layout activity_rabanete
 layout activity_rucula
 layout activity_salsa

@@ -39,7 +39,6 @@
         <activity android:name=".rucula" />
         <activity android:name=".espinafre" />
         <activity android:name=".salsa" />
-        <activity android:name=".Ppragas" />
         <activity android:name=".Cpragas" />
         <activity android:name=".cebolinhaInverno"></activity>
     </application>
