@@ -706,7 +706,6 @@ id all
 id always
 id async
 id bInverno
-id bMenu
 id bOrtaliças
 id bOutono
 id bPesticida
