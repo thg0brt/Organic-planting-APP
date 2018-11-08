@@ -40,7 +40,9 @@
         <activity android:name=".espinafre" />
         <activity android:name=".salsa" />
         <activity android:name=".Cpragas" />
-        <activity android:name=".cebolinhaInverno"></activity>
+        <activity android:name=".cebolinhaInverno" />
+        <activity android:name=".Linsumos" />
+        <activity android:name=".composteira"></activity>
     </application>
 
 </manifest>

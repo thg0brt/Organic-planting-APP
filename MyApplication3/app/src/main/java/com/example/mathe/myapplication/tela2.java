@@ -27,4 +27,9 @@ public class tela2 extends AppCompatActivity {
         startActivity(CP);
 
     }
+    public void Insumos(View view){
+        Intent insumo = new Intent(getApplicationContext(),composteira.class);
+        startActivity(insumo);
+
+    }
 }

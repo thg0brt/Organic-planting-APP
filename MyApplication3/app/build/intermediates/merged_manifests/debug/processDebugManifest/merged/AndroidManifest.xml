@@ -50,6 +50,8 @@
         <activity android:name="com.example.mathe.myapplication.salsa" />
         <activity android:name="com.example.mathe.myapplication.Cpragas" />
         <activity android:name="com.example.mathe.myapplication.cebolinhaInverno" />
+        <activity android:name="com.example.mathe.myapplication.Linsumos" />
+        <activity android:name="com.example.mathe.myapplication.composteira" />
     </application>
 
 </manifest>
