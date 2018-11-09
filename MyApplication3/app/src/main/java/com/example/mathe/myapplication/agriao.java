@@ -14,7 +14,6 @@ public class agriao extends AppCompatActivity {
         setContentView(R.layout.activity_agriao);
     }
     public void VoltarTela(View view){
-
         Intent primavera = new Intent(getApplicationContext(),Hprimavera.class);
         startActivity(primavera);
         finish();

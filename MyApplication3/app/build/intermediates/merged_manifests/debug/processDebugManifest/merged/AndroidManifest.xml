@@ -53,6 +53,7 @@
         <activity android:name="com.example.mathe.myapplication.composteira" />
         <activity android:name="com.example.mathe.myapplication.ervilha" />
         <activity android:name="com.example.mathe.myapplication.agriao_inverno" />
+        <activity android:name="com.example.mathe.myapplication.acelga" />
     </application>
 
 </manifest>

@@ -44,7 +44,8 @@
         <activity android:name=".Linsumos" />
         <activity android:name=".composteira" />
         <activity android:name=".ervilha" />
-        <activity android:name=".agriao_inverno"></activity>
+        <activity android:name=".agriao_inverno" />
+        <activity android:name=".acelga"></activity>
     </application>
 
 </manifest>
