@@ -989,6 +989,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_abobora1
 layout activity_agriao
+layout activity_agriao_inverno
 layout activity_berinjela1
 layout activity_beterraba
 layout activity_cebolinha1
@@ -997,6 +998,7 @@ layout activity_cenoura1
 layout activity_coentro
 layout activity_composteira
 layout activity_cpragas
+layout activity_ervilha
 layout activity_espinafre
 layout activity_hinverno
 layout activity_houtono

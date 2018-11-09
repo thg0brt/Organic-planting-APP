@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\mathe\\Documents\\organic-plantingTCC\\MyApplication3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\Thiago-PC\\Desktop\\organic-plantingTCC\\MyApplication3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mathe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\64792c18d265e7d27b1bda0c068dce62\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Thiago-PC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4069d60f3fd9c2295ef169be9ab28845\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

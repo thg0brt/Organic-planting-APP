@@ -42,7 +42,9 @@
         <activity android:name=".Cpragas" />
         <activity android:name=".cebolinhaInverno" />
         <activity android:name=".Linsumos" />
-        <activity android:name=".composteira"></activity>
+        <activity android:name=".composteira" />
+        <activity android:name=".ervilha" />
+        <activity android:name=".agriao_inverno"></activity>
     </application>
 
 </manifest>
