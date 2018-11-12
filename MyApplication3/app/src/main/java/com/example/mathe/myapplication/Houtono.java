@@ -18,9 +18,25 @@ public class Houtono extends AppCompatActivity {
         startActivity(Acelga);
         finish();
     }
-    public void agriao(View view){
-        Intent Agriao = new Intent(getApplicationContext(),agriao.class);
+     public void agriao(View view){
+       Intent Agriao = new Intent(getApplicationContext(),agriao_outono.class);
         startActivity(Agriao);
+        finish();
+    }
+
+    public void aipo(View view){
+        Intent Aipo = new Intent(getApplicationContext(),aipo.class);
+        startActivity(Aipo);
+        finish();
+    }
+    public void rucula(View view){
+        Intent Rucula = new Intent(getApplicationContext(),rucula_outono.class);
+        startActivity(Rucula);
+        finish();
+    }
+    public void almeirao(View view){
+        Intent Almeirao = new Intent(getApplicationContext(),almeirao.class);
+        startActivity(Almeirao);
         finish();
     }
     public void VoltarTela(View view){

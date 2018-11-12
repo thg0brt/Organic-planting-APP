@@ -45,7 +45,11 @@
         <activity android:name=".composteira" />
         <activity android:name=".ervilha" />
         <activity android:name=".agriao_inverno" />
-        <activity android:name=".acelga"></activity>
+        <activity android:name=".acelga" />
+        <activity android:name=".aipo" />
+        <activity android:name=".rucula_outono" />
+        <activity android:name=".agriao_outono" />
+        <activity android:name=".almeirao"></activity>
     </application>
 
 </manifest>
