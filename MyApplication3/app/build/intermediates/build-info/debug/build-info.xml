@@ -1,129 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="21"
-    build-mode="COLD"
-    density="hdpi"
+    abi="x86"
+    api-level="26"
+    build-mode="FULL"
+    density="420dpi"
     format="10"
-    ir-eligibility="METHOD_ADDED"
     plugin-version="3.2.1"
-    timestamp="1542067144074"
-    token="1183372772896703022"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="1542108250643"
+    token="-40596817512134607"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="588" />
+        duration="614" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="249" />
+        duration="367" />
     <task
         name="verifier"
-        duration="57" />
+        duration="87" />
 
     <artifact
-        location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+        location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1542063022796"
+        timestamp="1542108250643"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1542065247245"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="METHOD_ADDED"
-        timestamp="1542065594278"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="METHOD_ADDED"
-        timestamp="1542067144074"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Thiago-PC\Desktop\organic-plantingTCC\MyApplication3\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            location="/home/aluno/organic-plantingTCC/MyApplication3/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

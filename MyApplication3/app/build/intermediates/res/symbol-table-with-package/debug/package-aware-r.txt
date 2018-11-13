@@ -712,7 +712,7 @@ id all
 id always
 id async
 id bInverno
-id bOrtaliças
+id bOrtaliÃ§as
 id bOutono
 id bPesticida
 id bPrimavera
@@ -1015,6 +1015,7 @@ layout activity_mostarda
 layout activity_mostarda_verao
 layout activity_pimentao1
 layout activity_rabanete
+layout activity_repolho
 layout activity_rucula
 layout activity_rucula_outono
 layout activity_salsa

@@ -59,6 +59,7 @@
         <activity android:name="com.example.mathe.myapplication.rucula_outono" />
         <activity android:name="com.example.mathe.myapplication.agriao_outono" />
         <activity android:name="com.example.mathe.myapplication.almeirao" />
+        <activity android:name="com.example.mathe.myapplication.repolho" />
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"

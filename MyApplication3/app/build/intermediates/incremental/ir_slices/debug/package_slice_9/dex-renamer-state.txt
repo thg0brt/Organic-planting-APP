@@ -1,4 +1,1 @@
-#Mon Nov 12 21:27:32 BRST 2018
-base.0=C\:\\Users\\Thiago-PC\\Desktop\\organic-plantingTCC\\MyApplication3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
-path.0=classes.dex
-renamed.0=classes.dex
+#Tue Nov 13 09:24:19 BRST 2018
