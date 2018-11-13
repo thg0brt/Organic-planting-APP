@@ -996,6 +996,7 @@ layout activity_aipo
 layout activity_almeirao
 layout activity_berinjela1
 layout activity_beterraba
+layout activity_cebola
 layout activity_cebolinha1
 layout activity_cebolinha_inverno
 layout activity_cenoura1

@@ -50,7 +50,8 @@
         <activity android:name=".rucula_outono" />
         <activity android:name=".agriao_outono" />
         <activity android:name=".almeirao" />
-        <activity android:name=".repolho"></activity>
+        <activity android:name=".repolho" />
+        <activity android:name=".cebola"></activity>
     </application>
 
 </manifest>

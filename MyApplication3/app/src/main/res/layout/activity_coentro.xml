@@ -86,18 +86,32 @@
             <TextView
                 android:id="@+id/textView17"
                 android:layout_width="322dp"
-                android:layout_height="172dp"
-                android:layout_marginTop="8dp"
-                android:layout_marginBottom="8dp"
-                android:text="O coentro pode ser cultivado em lugares ensolarados ou em sombra parcial com alta luminosidade. Obs: Plantas cultivadas com incidência direta de luz solar tendem a ter mais aroma e um sabor mais marcante."
+                android:layout_height="103dp"
+                android:text="O coentro pode ser cultivado em lugares ensolarados ou em sombra parcial com alta luminosidade."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
+                android:textSize="21sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/imageView10"
+                app:layout_constraintStart_toStartOf="@+id/imageView10"
+                app:layout_constraintTop_toBottomOf="@+id/textView16" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="323dp"
+                android:layout_height="101dp"
+                android:layout_marginBottom="8dp"
+                android:text="OBS: Plantas cultivadas com incidência direta de luz solar tendem a ter mais aroma e um sabor mais marcante."
+                android:textAlignment="center"
+                android:textColor="#FF0000"
                 android:textSize="20sp"
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView10"
                 app:layout_constraintEnd_toEndOf="@+id/imageView10"
+                app:layout_constraintHorizontal_bias="0.506"
                 app:layout_constraintStart_toStartOf="@+id/imageView10"
-                app:layout_constraintTop_toBottomOf="@+id/textView16" />
+                app:layout_constraintTop_toBottomOf="@+id/textView17"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView11"

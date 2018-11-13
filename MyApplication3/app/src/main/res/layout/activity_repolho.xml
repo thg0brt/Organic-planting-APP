@@ -317,7 +317,7 @@
                 android:id="@+id/textView42"
                 android:layout_width="195dp"
                 android:layout_height="33dp"
-                android:text="Coentro"
+                android:text="Repolho"
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="24sp"

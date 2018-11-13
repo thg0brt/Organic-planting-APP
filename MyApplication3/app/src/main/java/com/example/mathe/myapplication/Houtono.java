@@ -60,6 +60,16 @@ public class Houtono extends AppCompatActivity {
         startActivity(Almeirao);
         finish();
     }
+    public void repolho(View view){
+        Intent Repolho = new Intent(getApplicationContext(),repolho.class);
+        startActivity(Repolho);
+        finish();
+    }
+    public void cebola(View view){
+        Intent Cebola = new Intent(getApplicationContext(),cebola.class);
+        startActivity(Cebola);
+        finish();
+    }
     public void VoltarTela(View view){
         Intent voltar = new Intent(getApplicationContext(),tela3.class);
         startActivity(voltar);
