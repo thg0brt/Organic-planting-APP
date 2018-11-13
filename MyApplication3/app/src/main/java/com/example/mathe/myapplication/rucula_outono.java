@@ -14,7 +14,7 @@ public class rucula_outono extends AppCompatActivity {
         setContentView(R.layout.activity_rucula_outono);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setHomeButtonEnabled(true);
-        getSupportActionBar().setTitle("Voltar àS hortaliças");
+        getSupportActionBar().setTitle("Voltar às hortaliças");
     }
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {

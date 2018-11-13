@@ -762,8 +762,6 @@ id forever
 id gone
 id group_divider
 id groups
-id guideline
-id guideline2
 id home
 id homeAsUp
 id icon
@@ -815,6 +813,7 @@ id imageView47
 id imageView48
 id imageView49
 id imageView5
+id imageView51
 id imageView6
 id imageView7
 id imageView8
@@ -938,6 +937,7 @@ id textView54
 id textView55
 id textView56
 id textView57
+id textView58
 id textView6
 id textView7
 id textView8

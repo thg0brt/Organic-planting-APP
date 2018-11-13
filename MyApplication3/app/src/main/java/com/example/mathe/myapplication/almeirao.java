@@ -12,6 +12,9 @@ public class almeirao extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_almeirao);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setHomeButtonEnabled(true);
+        getSupportActionBar().setTitle("Voltar às hortaliças");
     }
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {

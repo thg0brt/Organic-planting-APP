@@ -14,7 +14,7 @@ public class acelga extends AppCompatActivity {
         setContentView(R.layout.activity_acelga);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setHomeButtonEnabled(true);
-        getSupportActionBar().setTitle("Voltar àS hortaliças");
+        getSupportActionBar().setTitle("Voltar às hortaliças");
     }
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
