@@ -60,6 +60,8 @@
         <activity android:name="com.example.mathe.myapplication.almeirao" />
         <activity android:name="com.example.mathe.myapplication.repolho" />
         <activity android:name="com.example.mathe.myapplication.cebola" />
+        <activity android:name="com.example.mathe.myapplication.couveflor" />
+        <activity android:name="com.example.mathe.myapplication.alface" />
     </application>
 
 </manifest>

@@ -33,11 +33,11 @@
                 android:layout_width="402dp"
                 android:layout_height="248dp"
                 android:layout_marginStart="8dp"
-                android:layout_marginTop="128dp"
+                android:layout_marginTop="52dp"
                 android:layout_marginEnd="8dp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView59"
                 app:srcCompat="@drawable/texto" />
 
             <ImageView
@@ -216,6 +216,256 @@
                 app:layout_constraintStart_toStartOf="@+id/imageView48"
                 app:layout_constraintTop_toBottomOf="@+id/textView56"
                 app:layout_constraintVertical_bias="0.0" />
+
+            <ImageView
+                android:id="@+id/imageView51"
+                android:layout_width="408dp"
+                android:layout_height="248dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="120dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.482"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/imageView52"
+                app:srcCompat="@drawable/texto" />
+
+            <ImageView
+                android:id="@+id/imageView50"
+                android:layout_width="408dp"
+                android:layout_height="248dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="64dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView48"
+                app:srcCompat="@drawable/texto" />
+
+            <ImageView
+                android:id="@+id/imageView52"
+                android:layout_width="207dp"
+                android:layout_height="214dp"
+                android:layout_marginTop="8dp"
+                app:layout_constraintEnd_toEndOf="@+id/imageView50"
+                app:layout_constraintStart_toStartOf="@+id/imageView50"
+                app:layout_constraintTop_toTopOf="@+id/imageView50"
+                app:srcCompat="@drawable/composteirad" />
+
+            <TextView
+                android:id="@+id/textView58"
+                android:layout_width="114dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:text="3° Passo"
+                android:textAlignment="center"
+                android:textColor="#00FF00"
+                android:textSize="26sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/imageView51"
+                app:layout_constraintHorizontal_bias="0.498"
+                app:layout_constraintStart_toStartOf="@+id/imageView51"
+                app:layout_constraintTop_toBottomOf="@+id/imageView52" />
+
+            <TextView
+                android:id="@+id/textView59"
+                android:layout_width="329dp"
+                android:layout_height="57dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="Fure a tampa de uma das garrafas com a broca de 3mm."
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView51"
+                app:layout_constraintEnd_toEndOf="@+id/imageView51"
+                app:layout_constraintHorizontal_bias="0.507"
+                app:layout_constraintStart_toStartOf="@+id/imageView51"
+                app:layout_constraintTop_toBottomOf="@+id/textView58"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <ImageView
+                android:id="@+id/imageView54"
+                android:layout_width="408dp"
+                android:layout_height="248dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="168dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/imageView55"
+                app:srcCompat="@drawable/texto" />
+
+            <ImageView
+                android:id="@+id/imageView53"
+                android:layout_width="408dp"
+                android:layout_height="248dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="64dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView51"
+                app:srcCompat="@drawable/texto" />
+
+            <ImageView
+                android:id="@+id/imageView55"
+                android:layout_width="207dp"
+                android:layout_height="214dp"
+                android:layout_marginTop="8dp"
+                app:layout_constraintEnd_toEndOf="@+id/imageView53"
+                app:layout_constraintStart_toStartOf="@+id/imageView53"
+                app:layout_constraintTop_toTopOf="@+id/imageView53"
+                app:srcCompat="@drawable/composteirae" />
+
+            <TextView
+                android:id="@+id/textView60"
+                android:layout_width="124dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="8dp"
+                android:text="4°  Passo"
+                android:textAlignment="center"
+                android:textColor="#00FF00"
+                android:textSize="26sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/imageView54"
+                app:layout_constraintStart_toStartOf="@+id/imageView54"
+                app:layout_constraintTop_toBottomOf="@+id/imageView55" />
+
+            <TextView
+                android:id="@+id/textView61"
+                android:layout_width="322dp"
+                android:layout_height="125dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp"
+                android:text="Encaixe a parte de tamanho de 24cm da primeira garrafa com a parte de tamanho de 18cm da segunda garrafa, como na imagem acima."
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/imageView54"
+                app:layout_constraintStart_toStartOf="@+id/imageView54"
+                app:layout_constraintTop_toBottomOf="@+id/textView60" />
+
+            <ImageView
+                android:id="@+id/imageView57"
+                android:layout_width="408dp"
+                android:layout_height="248dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="220dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/imageView56"
+                app:srcCompat="@drawable/texto" />
+
+            <ImageView
+                android:id="@+id/imageView56"
+                android:layout_width="408dp"
+                android:layout_height="248dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="64dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView54"
+                app:srcCompat="@drawable/texto" />
+
+            <ImageView
+                android:id="@+id/imageView58"
+                android:layout_width="207dp"
+                android:layout_height="214dp"
+                android:layout_marginTop="8dp"
+                app:layout_constraintEnd_toEndOf="@+id/imageView56"
+                app:layout_constraintStart_toStartOf="@+id/imageView56"
+                app:layout_constraintTop_toTopOf="@+id/imageView56"
+                app:srcCompat="@drawable/composteiraf" />
+
+            <TextView
+                android:id="@+id/textView62"
+                android:layout_width="118dp"
+                android:layout_height="35dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp"
+                android:text="5° Passo"
+                android:textAlignment="center"
+                android:textColor="#00FF00"
+                android:textSize="26sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/imageView57"
+                app:layout_constraintStart_toStartOf="@+id/imageView57"
+                app:layout_constraintTop_toBottomOf="@+id/imageView56" />
+
+            <TextView
+                android:id="@+id/textView63"
+                android:layout_width="327dp"
+                android:layout_height="166dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="Encaixe a parte de tamanho de 6cm da primeira garrafa como se fosse a tampa da composteira, isso conforme a imagem acima. Para usar basta colocar uma camada de areia, uma de terra, uma com compostos orgânicos, outra de terra e esperar o proceso da produção do adubo líquido."
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView57"
+                app:layout_constraintEnd_toEndOf="@+id/imageView57"
+                app:layout_constraintHorizontal_bias="0.523"
+                app:layout_constraintStart_toStartOf="@+id/imageView57"
+                app:layout_constraintTop_toBottomOf="@+id/textView62"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <Button
+                android:id="@+id/button15"
+                android:layout_width="326dp"
+                android:layout_height="53dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="64dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                android:background="@drawable/madeira"
+                android:onClick="VoltarTela"
+                android:text="Voltar"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView57" />
+
+            <ImageView
+                android:id="@+id/imageView59"
+                android:layout_width="326dp"
+                android:layout_height="145dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/composteira" />
+
+            <TextView
+                android:id="@+id/textView64"
+                android:layout_width="195dp"
+                android:layout_height="33dp"
+                android:text="Composteira"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView59"
+                app:layout_constraintEnd_toEndOf="@+id/imageView59"
+                app:layout_constraintHorizontal_bias="0.916"
+                app:layout_constraintStart_toStartOf="@+id/imageView59"
+                app:layout_constraintTop_toTopOf="@+id/imageView59"
+                app:layout_constraintVertical_bias="0.517" />
 
 
         </android.support.constraint.ConstraintLayout>

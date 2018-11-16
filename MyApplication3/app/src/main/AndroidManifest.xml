@@ -51,7 +51,9 @@
         <activity android:name=".agriao_outono" />
         <activity android:name=".almeirao" />
         <activity android:name=".repolho" />
-        <activity android:name=".cebola"></activity>
+        <activity android:name=".cebola" />
+        <activity android:name=".couveflor" />
+        <activity android:name=".alface"></activity>
     </application>
 
 </manifest>
