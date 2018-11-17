@@ -131,7 +131,7 @@
                 android:layout_height="179dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginBottom="8dp"
-                android:text="É indicado plantar em solos bem drenados, Férteis e ricos em matéria orgânica. Por ser uma planta rústica a cebolinha crescerá bem em quase qualquer tipo de solo, exceto os solos sujeitos a encharcamento e os muito ácidos."
+                android:text="É indicado plantar em solos bem drenados, Férteis e ricos em matéria orgânica. Por ser uma planta rústica a cebolinha crescerá bem em quase qualquer tipo de solo, exceto os solos sujeitos a encharcamento."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="20sp"

@@ -49,7 +49,7 @@
                 app:layout_constraintHorizontal_bias="0.502"
                 app:layout_constraintStart_toStartOf="@+id/imageView8"
                 app:layout_constraintTop_toTopOf="@+id/imageView8"
-                app:srcCompat="@drawable/rucula" />
+                app:srcCompat="@drawable/borra" />
 
             <TextView
                 android:id="@+id/textView"

@@ -26,7 +26,6 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.mathe.myapplication.tela2" />
-        <activity android:name="com.example.mathe.myapplication.tela3" />
         <activity android:name="com.example.mathe.myapplication.Hprimavera" />
         <activity android:name="com.example.mathe.myapplication.mostarda" />
         <activity android:name="com.example.mathe.myapplication.Hverao" />
@@ -64,6 +63,10 @@
         <activity android:name="com.example.mathe.myapplication.cebola" />
         <activity android:name="com.example.mathe.myapplication.couveflor" />
         <activity android:name="com.example.mathe.myapplication.alface" />
+        <activity
+            android:name="com.example.mathe.myapplication.tabActivity"
+            android:label="@string/title_activity_tab"
+            android:theme="@style/AppTheme" />
     </application>
 
 </manifest>

@@ -20,9 +20,10 @@
                 android:layout_width="392dp"
                 android:layout_height="244dp"
                 android:layout_marginStart="8dp"
-                android:layout_marginTop="144dp"
+                android:layout_marginTop="136dp"
                 android:layout_marginEnd="8dp"
                 app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.484"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textView15"
                 app:srcCompat="@drawable/texto" />
@@ -60,7 +61,7 @@
                 android:layout_height="364dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginBottom="8dp"
-                android:text="A melhor temperatura para o crescimento da cenoura é entre 16°C e 22°C, sendo que existe alguns cultivares que se adaptam a temperaturas um pouco mais altas. Plantas bem desenvolvidas podem suportar temperaturas mais baixas devido as suas raízes mais profundas. Entretanto temperaturas acima de 30°C podem prejudicar seu crescimento."
+                android:text="Cresce melhor em clima ameno (temperatura entre 10°C e 24°C). Há cultivares que crescem bem em temperaturas mais altas, mas muitas cultivares, especialmente cultivares de beterrabas açucareiras e forrageiras, não crescem bem em climas mais quentes. Por outro lado, plantas bem desenvolvidas podem suportar baixas temperaturas e geadas."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="22sp"
@@ -102,10 +103,10 @@
                 android:layout_height="172dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginBottom="8dp"
-                android:text="A cenoura cresce em locais com sombras parciais desde que a luminosidade da seja boa. Contudo a cenoura se adapta melhor em locais com alta luminosidade e sol direto."
+                android:text="A beterraba necessita de boa luminosidade, com pelo menos algumas horas de sol direto diariamente."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
-                android:textSize="20sp"
+                android:textSize="22sp"
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView10"
                 app:layout_constraintEnd_toEndOf="@+id/imageView10"
@@ -130,10 +131,10 @@
                 android:layout_height="177dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginBottom="8dp"
-                android:text="A cenoura deve ser cultivada em solo sem predras para que as raízes não fiquem deformadas. O solo ideál para seu cultivo é um solo profundo, bem drenado, rico em matéria orgânica. solos argilosos podem dar colheitas razoáveis se não estiver compactado."
+                android:text="A beterraba precisa de solo bem drenado, profundo, leve, sem pedras e outros detritos, fértil, rico em matéria orgânica."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
-                android:textSize="18sp"
+                android:textSize="22sp"
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView11"
                 app:layout_constraintEnd_toEndOf="@+id/imageView11"
@@ -185,18 +186,20 @@
             <TextView
                 android:id="@+id/textView22"
                 android:layout_width="317dp"
-                android:layout_height="174dp"
+                android:layout_height="144dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginBottom="8dp"
-                android:text="                                                                                                                                            Irrigue todas vez que for necessário mas sem deixar o solo encharcado, pois água em excesso ajuda no apodrecimento e surgimento de doenças."
+                android:text="rigue com a frequência necessária pra que o solo fique sempre úmido, mas sem que permaneça encharcado."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
-                android:textSize="20sp"
+                android:textSize="22sp"
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView12"
                 app:layout_constraintEnd_toEndOf="@+id/imageView12"
+                app:layout_constraintHorizontal_bias="0.494"
                 app:layout_constraintStart_toStartOf="@+id/imageView12"
-                app:layout_constraintTop_toBottomOf="@+id/textView21" />
+                app:layout_constraintTop_toBottomOf="@+id/textView21"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView13"
@@ -205,8 +208,9 @@
                 android:layout_marginStart="8dp"
                 android:layout_marginTop="52dp"
                 app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.507"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/textView22"
+                app:layout_constraintTop_toBottomOf="@+id/imageView12"
                 app:srcCompat="@drawable/texto" />
 
             <TextView
@@ -223,18 +227,30 @@
                 app:layout_constraintStart_toStartOf="@+id/imageView13"
                 app:layout_constraintTop_toTopOf="@+id/imageView13" />
 
+            <ImageView
+                android:id="@+id/imageView15"
+                android:layout_width="397dp"
+                android:layout_height="251dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="148dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.518"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/imageView13"
+                app:srcCompat="@drawable/texto" />
+
             <TextView
                 android:id="@+id/textView24"
                 android:layout_width="319dp"
-                android:layout_height="173dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="349dp"
                 android:layout_marginBottom="8dp"
-                android:text="                                                                                                            Semeie diretamente na horta em uma profundidade de 1,0cm de profundidade, deixando espaço entra as plantas entre 5,0cm e 10,0cm. A germinação geralmente ocorre entre uma e três semanas."
+                android:text="Semeie a uma profundidade de aproximadamente 1 cm no solo, preferencialmente diretamente no local definitivo da horta, pois as mudas de beterraba podem facilmente sofrer danos. Ainda assim, é possível semear em sementeiras e outros recipientes. O transplante das mudas para a horta deve então ser realizado quando atingem aproximadamente 5 cm de altura, sendo que o transplante deve ser feito com cuidado para não danificar as raízes das mudas. A germinação das sementes geralmente leva de uma a três semanas, dependendo das condições ambientais."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="18sp"
                 android:textStyle="bold"
-                app:layout_constraintBottom_toBottomOf="@+id/imageView13"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView15"
                 app:layout_constraintEnd_toEndOf="@+id/imageView13"
                 app:layout_constraintStart_toStartOf="@+id/imageView13"
                 app:layout_constraintTop_toBottomOf="@+id/textView23" />
@@ -244,9 +260,8 @@
                 android:layout_width="326dp"
                 android:layout_height="53dp"
                 android:layout_marginStart="8dp"
-                android:layout_marginTop="48dp"
+                android:layout_marginTop="52dp"
                 android:layout_marginEnd="8dp"
-                android:layout_marginBottom="8dp"
                 android:background="@drawable/madeira"
                 android:onClick="VoltarTela"
                 android:text="Voltar"
@@ -256,8 +271,9 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.531"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/imageView13" />
+                app:layout_constraintTop_toBottomOf="@+id/imageView15" />
 
             <ImageView
                 android:id="@+id/imageView30"

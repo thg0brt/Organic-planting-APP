@@ -116,7 +116,7 @@
                 android:layout_height="177dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginBottom="8dp"
-                android:text="O solo deve ser bem drenado, fértil, com boa disponibilidade de nitrogênio, rico em matéria orgânica."
+                android:text="O solo deve ser bem drenado, fértil, rico em matéria orgânica."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="22sp"

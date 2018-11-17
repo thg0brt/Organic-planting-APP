@@ -206,7 +206,7 @@
                 android:layout_width="336dp"
                 android:layout_height="125dp"
                 android:layout_marginBottom="8dp"
-                android:text="Depois corte uma das garrafas, sendo que o corte deve ser feito exatamente 12cm abaixo do gargalo, obtendo duas partes como na foto acima"
+                android:text="Depois corte uma das garrafas, sendo que o corte deve ser feito exatamente 12cm abaixo do gargalo, obtendo duas partes como na foto acima."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="20sp"

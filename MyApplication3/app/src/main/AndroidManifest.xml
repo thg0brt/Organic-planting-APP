@@ -17,7 +17,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".tela2" />
-        <activity android:name=".tela3" />
         <activity android:name=".Hprimavera" />
         <activity android:name=".mostarda" />
         <activity android:name=".Hverao" />
@@ -54,7 +53,11 @@
         <activity android:name=".repolho" />
         <activity android:name=".cebola" />
         <activity android:name=".couveflor" />
-        <activity android:name=".alface"></activity>
+        <activity android:name=".alface" />
+        <activity
+            android:name=".tabActivity"
+            android:label="@string/title_activity_tab"
+            android:theme="@style/AppTheme" />
     </application>
 
 </manifest>

@@ -20,7 +20,7 @@ public class Hinverno extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case android.R.id.home:
-                startActivity(new Intent(this, tela3.class));
+                startActivity(new Intent(this, tabActivity.class));
                 finishAffinity();
                 break;
             default:break;
@@ -29,7 +29,7 @@ public class Hinverno extends AppCompatActivity {
     }
     @Override
     public void onBackPressed(){
-        startActivity(new Intent(this, tela3.class));
+        startActivity(new Intent(this, tabActivity.class));
         finishAffinity();
         return;
     }
@@ -61,7 +61,7 @@ public class Hinverno extends AppCompatActivity {
         finish();
     }
     public void VoltarTela(View view){
-        Intent voltar = new Intent(getApplicationContext(),tela3.class);
+        Intent voltar = new Intent(getApplicationContext(),tabActivity.class);
         startActivity(voltar);
         finish();
     }

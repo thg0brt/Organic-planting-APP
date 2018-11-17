@@ -20,7 +20,6 @@
                 android:layout_width="347dp"
                 android:layout_height="58dp"
                 android:layout_marginStart="8dp"
-                android:layout_marginTop="52dp"
                 android:layout_marginEnd="8dp"
                 android:background="@drawable/madeira"
                 android:onClick="Abobora"
@@ -32,7 +31,7 @@
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
+                app:layout_constraintTop_toBottomOf="@+id/imageView60" />
 
             <Button
                 android:id="@+id/button2"
@@ -51,7 +50,7 @@
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/button" />
+                app:layout_constraintTop_toBottomOf="@+id/button10" />
 
             <Button
                 android:id="@+id/button4"
@@ -70,7 +69,7 @@
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/button2" />
+                app:layout_constraintTop_toBottomOf="@+id/button7" />
 
             <Button
                 android:id="@+id/button5"
@@ -89,7 +88,7 @@
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/button4" />
+                app:layout_constraintTop_toBottomOf="@+id/button" />
 
             <Button
                 android:id="@+id/button6"
@@ -108,7 +107,7 @@
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/button5" />
+                app:layout_constraintTop_toBottomOf="@+id/button2" />
 
             <Button
                 android:id="@+id/button7"
@@ -127,7 +126,7 @@
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/button6" />
+                app:layout_constraintTop_toBottomOf="@+id/button11" />
 
             <Button
                 android:id="@+id/button10"
@@ -146,13 +145,15 @@
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/button7" />
+                app:layout_constraintTop_toBottomOf="@+id/button5" />
 
             <Button
                 android:id="@+id/button11"
                 android:layout_width="347dp"
                 android:layout_height="58dp"
+                android:layout_marginStart="8dp"
                 android:layout_marginTop="30dp"
+                android:layout_marginEnd="8dp"
                 android:background="@drawable/madeira"
                 android:onClick="Mostarda"
                 android:text="Mostarda"
@@ -163,16 +164,15 @@
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/button10" />
+                app:layout_constraintTop_toBottomOf="@+id/button6" />
 
             <Button
                 android:id="@+id/button15"
                 android:layout_width="326dp"
                 android:layout_height="53dp"
                 android:layout_marginStart="8dp"
-                android:layout_marginTop="52dp"
+                android:layout_marginTop="64dp"
                 android:layout_marginEnd="8dp"
-                android:layout_marginBottom="8dp"
                 android:background="@drawable/madeira"
                 android:onClick="VoltarTela"
                 android:text="Voltar"
@@ -183,7 +183,19 @@
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/button11" />
+                app:layout_constraintTop_toBottomOf="@+id/button4" />
+
+            <ImageView
+                android:id="@+id/imageView60"
+                android:layout_width="203dp"
+                android:layout_height="183dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/primavera" />
 
         </android.support.constraint.ConstraintLayout>
     </ScrollView>

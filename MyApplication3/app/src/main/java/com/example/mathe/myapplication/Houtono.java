@@ -20,7 +20,7 @@ public class Houtono extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case android.R.id.home:
-                startActivity(new Intent(this, tela3.class));
+                startActivity(new Intent(this, tabActivity.class));
                 finishAffinity();
                 break;
             default:break;
@@ -29,7 +29,7 @@ public class Houtono extends AppCompatActivity {
     }
     @Override
     public void onBackPressed(){
-        startActivity(new Intent(this, tela3.class));
+        startActivity(new Intent(this, tabActivity.class));
         finishAffinity();
         return;
     }
@@ -75,8 +75,18 @@ public class Houtono extends AppCompatActivity {
         startActivity(Couve_flor);
         finish();
     }
+    public void salsa(View view){
+        Intent Salsa = new Intent(getApplicationContext(),salsa.class);
+        startActivity(Salsa);
+        finish();
+    }
+    public void alface(View view){
+        Intent Alface = new Intent(getApplicationContext(),alface.class);
+        startActivity(Alface);
+        finish();
+    }
     public void VoltarTela(View view){
-        Intent voltar = new Intent(getApplicationContext(),tela3.class);
+        Intent voltar = new Intent(getApplicationContext(),tabActivity.class);
         startActivity(voltar);
         finish();
     }
