@@ -46,7 +46,7 @@
                 android:layout_width="317dp"
                 android:layout_height="180dp"
                 android:layout_marginBottom="8dp"
-                android:text="O ideal é um clima quente e úmido, com temperaturas entre 18°C e 30°C durante o dia e uma temperatura alguns graus mais baixa durante a noite. Apesar do pimentão crescer melhor em clima quente, temperaturas acima de 30°C podem reduzir o número e o tamanho dos frutos. Em climas mais frios, o pimentão pode ser cultivado nos meses mais quentes do ano "
+                android:text="O ideal é um clima quente e úmido, com temperaturas entre 18°C e 30°C durante o dia e uma temperatura alguns graus mais baixa durante a noite. Apesar do pimentão crescer melhor em clima quente, temperaturas acima de 30°C podem reduzir o número e o tamanho dos frutos. Em climas mais frios, o pimentão pode ser cultivado nos meses mais quentes do ano."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="16sp"

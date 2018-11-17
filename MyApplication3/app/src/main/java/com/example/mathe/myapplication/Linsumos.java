@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MenuItem;
+import android.view.View;
 
 public class Linsumos extends AppCompatActivity {
 
@@ -33,4 +34,24 @@ public class Linsumos extends AppCompatActivity {
         return;
     }
     // -------------------------------------------------------------------------------------------------------------
+    public void VoltarTela(View view){
+        Intent voltar = new Intent(getApplicationContext(),tela2.class);
+        startActivity(voltar);
+        finish();
+    }
+    public void Composteira(View view){
+        Intent composteira = new Intent(getApplicationContext(),composteira.class);
+        startActivity(composteira);
+        finish();
+    }
+    public void NPK(View view){
+        Intent npk = new Intent(getApplicationContext(),npk.class);
+        startActivity(npk);
+        finish();
+    }
+    public void BORRA(View view){
+        Intent borra = new Intent(getApplicationContext(),borraCafe.class);
+        startActivity(borra);
+        finish();
+    }
 }

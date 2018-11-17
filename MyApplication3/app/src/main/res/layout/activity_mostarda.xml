@@ -58,7 +58,7 @@
                 android:layout_width="317dp"
                 android:layout_height="281dp"
                 android:layout_marginTop="8dp"
-                android:text="A mostarda pode crescer em uma ampla faixa de temperaturas, embora o ideal seja um clima ameno. As plantas podem suportar geadas leves. A mostarda pode tolerar clima quente, mas a produção e a qualidade das sementes pode ser prejudicada se a temperatura for muita alta durante a floração e o crescimento das vagens. O ideal é que a temperatura não ultrapasse os 27°C.  OBS: A mostarda-oriental, cultivada como verdura, geralmente não suporta bem altas temperaturas. "
+                android:text="A mostarda pode crescer em uma ampla faixa de temperaturas, embora o ideal seja um clima ameno. As plantas podem suportar geadas leves. A mostarda pode tolerar clima quente, mas a produção e a qualidade das sementes pode ser prejudicada se a temperatura for muita alta durante a floração e o crescimento das vagens. O ideal é que a temperatura não ultrapasse os 27°C.  "
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="19sp"

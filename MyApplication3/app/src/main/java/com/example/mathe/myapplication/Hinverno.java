@@ -55,6 +55,11 @@ public class Hinverno extends AppCompatActivity {
         startActivity(Mostarda);
         finish();
     }
+    public void beterraba(View view){
+        Intent Beterraba = new Intent(getApplicationContext(),beterraba.class);
+        startActivity(Beterraba);
+        finish();
+    }
     public void VoltarTela(View view){
         Intent voltar = new Intent(getApplicationContext(),tela3.class);
         startActivity(voltar);

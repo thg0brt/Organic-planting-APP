@@ -5,7 +5,7 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="Organic Planting"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
@@ -19,7 +19,6 @@
         <activity android:name=".tela2" />
         <activity android:name=".tela3" />
         <activity android:name=".Hprimavera" />
-        <activity android:name=".pientao2" />
         <activity android:name=".mostarda" />
         <activity android:name=".Hverao" />
         <activity android:name=".Houtono" />
@@ -43,6 +42,8 @@
         <activity android:name=".cebolinhaInverno" />
         <activity android:name=".Linsumos" />
         <activity android:name=".composteira" />
+        <activity android:name=".npk" />
+        <activity android:name=".borraCafe" />
         <activity android:name=".ervilha" />
         <activity android:name=".agriao_inverno" />
         <activity android:name=".acelga" />

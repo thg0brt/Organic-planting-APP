@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/fundo"
-    tools:context=".agriao">
+    tools:context=".agriao_inverno">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -266,7 +266,7 @@
                 android:id="@+id/textView37"
                 android:layout_width="195dp"
                 android:layout_height="33dp"
-                android:text="Agrião"
+                android:text="Agrião-da-terra"
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="24sp"

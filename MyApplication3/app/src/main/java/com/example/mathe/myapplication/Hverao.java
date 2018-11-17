@@ -14,8 +14,7 @@ public class Hverao extends AppCompatActivity {
         setContentView(R.layout.activity_hverao);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setHomeButtonEnabled(true);
-        getSupportActionBar().setTitle("Voltar às hortaliças");
-
+        getSupportActionBar().setTitle("Voltar às estações");
     }
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {

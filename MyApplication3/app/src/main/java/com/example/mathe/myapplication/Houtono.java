@@ -70,6 +70,11 @@ public class Houtono extends AppCompatActivity {
         startActivity(Cebola);
         finish();
     }
+    public void couve_flor(View view){
+        Intent Couve_flor = new Intent(getApplicationContext(),couveflor.class);
+        startActivity(Couve_flor);
+        finish();
+    }
     public void VoltarTela(View view){
         Intent voltar = new Intent(getApplicationContext(),tela3.class);
         startActivity(voltar);

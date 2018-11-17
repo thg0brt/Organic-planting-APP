@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/fundo"
-    tools:context=".cebolinhaInverno">
+    tools:context=".ervilha">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -277,7 +277,7 @@
                 android:layout_marginStart="8dp"
                 android:layout_marginTop="20dp"
                 android:layout_marginEnd="8dp"
-                android:src="@drawable/cebolinha"
+                android:src="@drawable/rucula"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />

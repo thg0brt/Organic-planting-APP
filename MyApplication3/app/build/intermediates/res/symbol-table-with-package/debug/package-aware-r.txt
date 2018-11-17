@@ -634,9 +634,11 @@ drawable agriao
 drawable baner1
 drawable berinjela
 drawable beterraba
+drawable borrab
 drawable cebolinha
 drawable cenoura
 drawable coentro
+drawable composteira
 drawable composteiraa
 drawable composteirab
 drawable composteirac
@@ -651,6 +653,7 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable inverno
 drawable lagarta
+drawable liquidi
 drawable logo
 drawable logo_app
 drawable madeira
@@ -668,6 +671,10 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable npk
+drawable npka
+drawable npkb
+drawable npkc
 drawable outono
 drawable pimentao
 drawable ppragas
@@ -677,6 +684,7 @@ drawable rabanete
 drawable rucula
 drawable salsa
 drawable texto
+drawable titulo
 drawable tomate
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -728,6 +736,7 @@ id button10
 id button11
 id button15
 id button2
+id button3
 id button4
 id button5
 id button6
@@ -755,6 +764,7 @@ id edit_query
 id end
 id expand_activities_button
 id expanded_menu
+id ffff
 id fill
 id fill_horizontal
 id fill_vertical
@@ -813,7 +823,16 @@ id imageView47
 id imageView48
 id imageView49
 id imageView5
+id imageView50
 id imageView51
+id imageView52
+id imageView53
+id imageView54
+id imageView55
+id imageView56
+id imageView57
+id imageView58
+id imageView59
 id imageView6
 id imageView7
 id imageView8
@@ -938,7 +957,13 @@ id textView55
 id textView56
 id textView57
 id textView58
+id textView59
 id textView6
+id textView60
+id textView61
+id textView62
+id textView63
+id textView64
 id textView7
 id textView8
 id textView9
@@ -997,6 +1022,7 @@ layout activity_alface
 layout activity_almeirao
 layout activity_berinjela1
 layout activity_beterraba
+layout activity_borra_cafe
 layout activity_cebola
 layout activity_cebolinha1
 layout activity_cebolinha_inverno
@@ -1016,6 +1042,7 @@ layout activity_main
 layout activity_melancia1
 layout activity_mostarda
 layout activity_mostarda_verao
+layout activity_npk
 layout activity_pimentao1
 layout activity_rabanete
 layout activity_repolho

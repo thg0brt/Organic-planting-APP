@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/fundo"
-    tools:context=".salsa">
+    tools:context=".aipo">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -285,13 +285,13 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                app:srcCompat="@drawable/salsa" />
+                app:srcCompat="@drawable/rucula" />
 
             <TextView
                 android:id="@+id/textView50"
                 android:layout_width="195dp"
                 android:layout_height="33dp"
-                android:text="Aipo/Salção"
+                android:text="Aipo/Salsão"
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="24sp"
