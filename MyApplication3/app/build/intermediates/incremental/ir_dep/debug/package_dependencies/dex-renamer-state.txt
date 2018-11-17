@@ -1,4 +1,4 @@
-#Fri Nov 16 22:20:58 BRST 2018
+#Sat Nov 17 14:41:56 BRST 2018
 base.0=C\:\\Users\\Thiago-PC\\Desktop\\organic-plantingTCC\\MyApplication3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
 path.0=classes.dex
 renamed.0=classes.dex
