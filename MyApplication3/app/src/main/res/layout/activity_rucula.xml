@@ -44,8 +44,7 @@
             <TextView
                 android:id="@+id/textView14"
                 android:layout_width="317dp"
-                android:layout_height="181dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="198dp"
                 android:layout_marginBottom="8dp"
                 android:text="A rúcula é uma hortaliça que cresce melhor em um clima com temperaturas que variam entre 16 e 22°C, quando a rúcula é cultivada em temperaturas mais elevadas sua floração pode ocorrer precocemente, além de deixar suas folhas com um sabor amargo."
                 android:textAlignment="center"
@@ -86,7 +85,7 @@
             <TextView
                 android:id="@+id/textView17"
                 android:layout_width="317dp"
-                android:layout_height="133dp"
+                android:layout_height="181dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginBottom="8dp"
                 android:text=" No outono e inverno pode ser cultivada com sol direto o dia todo, já no verão ela deve ser cultiva em um local que possa oferecer sombra parcial durante os períodos mais quentes do dia."
@@ -130,8 +129,7 @@
             <TextView
                 android:id="@+id/textView20"
                 android:layout_width="317dp"
-                android:layout_height="179dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="195dp"
                 android:layout_marginBottom="8dp"
                 android:text="                                                                          O solo deve ser bem drenado, fértil, rico em matéria orgânica."
                 android:textAlignment="center"
@@ -172,7 +170,7 @@
             <TextView
                 android:id="@+id/textView22"
                 android:layout_width="317dp"
-                android:layout_height="181dp"
+                android:layout_height="196dp"
                 android:text="                                                              Irrigação deve ser feita de maneira a manter o solo sempre úmido, mas com o cuidado de não o deixar encharcado."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
@@ -224,15 +222,16 @@
             <TextView
                 android:id="@+id/textView25"
                 android:layout_width="330dp"
-                android:layout_height="402dp"
+                android:layout_height="410dp"
                 android:layout_marginStart="8dp"
-                android:layout_marginTop="8dp"
                 android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
                 android:text="Semeie as sementes diretamente no local definitivo, superficialmente ou a uma profundidade não superior a 0,5 cm no solo. As sementes germinam entre 4 á 8 dias. Quando as plantas atingirem cerca de 10 cm de altura, o excesso de plantas pode ser colhido para que seja atingido um espaçamento adequado. Além disso as sementes também pode ser plantadas em sementeiras e transportadas para para o local definitivo de plantio quando atingiregem o estado de muda."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="20sp"
                 android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView14"
                 app:layout_constraintEnd_toEndOf="@+id/imageView14"
                 app:layout_constraintStart_toStartOf="@+id/imageView7"
                 app:layout_constraintTop_toBottomOf="@+id/textView24" />

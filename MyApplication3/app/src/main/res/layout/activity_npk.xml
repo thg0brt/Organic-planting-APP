@@ -67,7 +67,7 @@
             <TextView
                 android:id="@+id/textView53"
                 android:layout_width="324dp"
-                android:layout_height="74dp"
+                android:layout_height="98dp"
                 android:layout_marginBottom="8dp"
                 android:text="Para fazer o NPK orgânico voce vai precisar de casca de ovos, borra de café e cascas de bananas picadas."
                 android:textAlignment="center"
@@ -136,7 +136,7 @@
             <TextView
                 android:id="@+id/textView55"
                 android:layout_width="334dp"
-                android:layout_height="78dp"
+                android:layout_height="97dp"
                 android:layout_marginStart="8dp"
                 android:layout_marginEnd="8dp"
                 android:layout_marginBottom="8dp"
@@ -204,7 +204,7 @@
             <TextView
                 android:id="@+id/textView57"
                 android:layout_width="336dp"
-                android:layout_height="100dp"
+                android:layout_height="126dp"
                 android:layout_marginBottom="8dp"
                 android:text="Coloque a mistura dentro de uma garrafa pet e deixe fermentar por 3 dias, depois é só colocar nas raízes das plantas a cada uma semana."
                 android:textAlignment="center"

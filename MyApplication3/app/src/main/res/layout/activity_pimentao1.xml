@@ -31,30 +31,31 @@
                 android:id="@+id/textView15"
                 android:layout_width="315dp"
                 android:layout_height="32dp"
-                android:layout_marginTop="8dp"
                 android:text="Clima"
                 android:textAlignment="center"
                 android:textColor="#00FF00"
                 android:textSize="28sp"
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="@+id/imageView8"
+                app:layout_constraintHorizontal_bias="0.478"
                 app:layout_constraintStart_toStartOf="@+id/imageView8"
                 app:layout_constraintTop_toTopOf="@+id/imageView8" />
 
             <TextView
                 android:id="@+id/textView14"
                 android:layout_width="317dp"
-                android:layout_height="180dp"
+                android:layout_height="217dp"
                 android:layout_marginBottom="8dp"
                 android:text="O ideal é um clima quente e úmido, com temperaturas entre 18°C e 30°C durante o dia e uma temperatura alguns graus mais baixa durante a noite. Apesar do pimentão crescer melhor em clima quente, temperaturas acima de 30°C podem reduzir o número e o tamanho dos frutos. Em climas mais frios, o pimentão pode ser cultivado nos meses mais quentes do ano."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
-                android:textSize="16sp"
+                android:textSize="17sp"
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView8"
                 app:layout_constraintEnd_toEndOf="@+id/imageView8"
                 app:layout_constraintStart_toStartOf="@+id/imageView8"
-                app:layout_constraintTop_toBottomOf="@+id/textView15" />
+                app:layout_constraintTop_toBottomOf="@+id/textView15"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView10"
@@ -85,8 +86,7 @@
             <TextView
                 android:id="@+id/textView17"
                 android:layout_width="322dp"
-                android:layout_height="174dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="195dp"
                 android:layout_marginBottom="8dp"
                 android:text="Cresce melhor em condições de alta luminosidade, com sol direto. Em clima muito quente, sombra parcial pode ser benéfica nas horas mais quentes do dia. "
                 android:textAlignment="center"
@@ -113,18 +113,19 @@
             <TextView
                 android:id="@+id/textView18"
                 android:layout_width="311dp"
-                android:layout_height="177dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="195dp"
                 android:layout_marginBottom="8dp"
                 android:text="O ideal é que o solo seja leve, profundo, bem drenado, fértil e rico em matéria orgânica. "
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
-                android:textSize="26sp"
+                android:textSize="22sp"
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView11"
                 app:layout_constraintEnd_toEndOf="@+id/imageView11"
+                app:layout_constraintHorizontal_bias="0.465"
                 app:layout_constraintStart_toStartOf="@+id/imageView11"
-                app:layout_constraintTop_toBottomOf="@+id/textView19" />
+                app:layout_constraintTop_toBottomOf="@+id/textView19"
+                app:layout_constraintVertical_bias="0.0" />
 
             <TextView
                 android:id="@+id/textView19"
@@ -169,8 +170,7 @@
             <TextView
                 android:id="@+id/textView22"
                 android:layout_width="317dp"
-                android:layout_height="174dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="195dp"
                 android:layout_marginBottom="8dp"
                 android:text="Irrigue quando necessário para manter o solo sempre úmido, porém o solo não deve permanecer encharcado. "
                 android:textAlignment="center"
@@ -207,12 +207,12 @@
 
             <ImageView
                 android:id="@+id/imageView15"
-                android:layout_width="386dp"
-                android:layout_height="238dp"
-                android:layout_marginTop="84dp"
+                android:layout_width="391dp"
+                android:layout_height="240dp"
+                android:layout_marginTop="120dp"
                 android:src="@drawable/texto"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.509"
+                app:layout_constraintHorizontal_bias="0.495"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/imageView16" />
 
@@ -229,12 +229,12 @@
 
             <ImageView
                 android:id="@+id/imageView17"
-                android:layout_width="385dp"
+                android:layout_width="405dp"
                 android:layout_height="242dp"
-                android:layout_marginTop="152dp"
+                android:layout_marginTop="176dp"
                 android:src="@drawable/texto"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.502"
+                app:layout_constraintHorizontal_bias="0.485"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/imageView14" />
 
@@ -255,8 +255,7 @@
             <TextView
                 android:id="@+id/textView24"
                 android:layout_width="319dp"
-                android:layout_height="219dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="229dp"
                 android:text="As sementes de pimentão podem ser semeadas diretamente no local definitivo, mas como as mudas são relativamente frágeis, é recomendado o plantio em sementeiras, copos ou saquinhos de plástico ou papel. As sementes devem ficar a aproximadamente 0,5 cm de profundidade no solo e a germinação geralmente ocorre em 1 a 3 semanas."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
@@ -290,7 +289,6 @@
                 android:id="@+id/textView6"
                 android:layout_width="321dp"
                 android:layout_height="258dp"
-                android:layout_marginTop="84dp"
                 android:text="O transplante para o local definitivo é feito quando as mudas de pimentão atingem aproximadamente 10 cm de altura.As sementes de tomate podem ser semeadas diretamente no local definitivo ou em sementeiras, copos ou saquinhos de plástico ou papel, com cerca de 10 cm de altura e 7 cm de diâmetro. Coloque de duas a cinco sementes em cada recipiente, a no máximo 1 cm de profundidade."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
@@ -298,13 +296,12 @@
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="@+id/imageView14"
                 app:layout_constraintStart_toStartOf="@+id/imageView14"
-                app:layout_constraintTop_toTopOf="@+id/imageView14" />
+                app:layout_constraintTop_toBottomOf="@+id/textView24" />
 
             <TextView
                 android:id="@+id/textView10"
                 android:layout_width="317dp"
-                android:layout_height="219dp"
-                android:layout_marginTop="324dp"
+                android:layout_height="237dp"
                 android:text=" Em geral, as cultivares de hábito indeterminado podem ser cultivadas com um espaçamento de 50 cm a 1,6 m entre plantas, e as cultivares de hábito determinado podem ser cultivadas com um espaçamento de 50 cm a 1 m entre plantas. Cultivares anãs podem ser plantadas com um espaçamento de 30 cm entre as plantas."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
@@ -312,13 +309,12 @@
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="@+id/imageView17"
                 app:layout_constraintStart_toStartOf="@+id/imageView17"
-                app:layout_constraintTop_toTopOf="@+id/imageView14" />
+                app:layout_constraintTop_toBottomOf="@+id/textView6" />
 
             <TextView
                 android:id="@+id/textView13"
                 android:layout_width="328dp"
-                android:layout_height="205dp"
-                android:layout_marginTop="96dp"
+                android:layout_height="218dp"
                 android:layout_marginBottom="8dp"
                 android:text="O espaçamento recomendado é de 60 a 120 cm entre as linhas de plantio e 40 a 60 cm entre as plantas, variando com a cultivar e as condições de cultivo. O pimentão pode ser cultivado em vasos, mas estes devem ter uma profundidade e um diâmetro de pelo menos 35 cm para que as plantas se desenvolvam bem."
                 android:textAlignment="center"
@@ -327,9 +323,9 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView15"
                 app:layout_constraintEnd_toEndOf="@+id/imageView15"
-                app:layout_constraintHorizontal_bias="0.413"
+                app:layout_constraintHorizontal_bias="0.507"
                 app:layout_constraintStart_toStartOf="@+id/imageView15"
-                app:layout_constraintTop_toBottomOf="@+id/imageView16"
+                app:layout_constraintTop_toBottomOf="@+id/textView10"
                 app:layout_constraintVertical_bias="0.0" />
 
             <ImageView

@@ -45,8 +45,7 @@
             <TextView
                 android:id="@+id/textView14"
                 android:layout_width="317dp"
-                android:layout_height="169dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="202dp"
                 android:layout_marginBottom="8dp"
                 android:text="A temperatura indicada para se cultivar a abóbora é a que vária entre temperaturas acima de 18°C e abaixo de 27°C, características de um clima moderadamente quente."
                 android:textAlignment="center"
@@ -55,8 +54,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView8"
                 app:layout_constraintEnd_toEndOf="@+id/imageView8"
+                app:layout_constraintHorizontal_bias="0.506"
                 app:layout_constraintStart_toStartOf="@+id/imageView8"
-                app:layout_constraintTop_toBottomOf="@+id/textView15" />
+                app:layout_constraintTop_toBottomOf="@+id/textView15"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView10"
@@ -171,8 +172,7 @@
             <TextView
                 android:id="@+id/textView22"
                 android:layout_width="317dp"
-                android:layout_height="174dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="193dp"
                 android:layout_marginBottom="8dp"
                 android:text="A irrigação deve ser feita de forma que o solo não fique encharcado e sim úmido, lembrando que plantas adultas são mais resistentes a curtos períodos de seca. Dica: Uma boa maneira de economizar água é direcionar os jatos da irrigação para o local onde a planta foi semeada."
                 android:textAlignment="center"
@@ -181,8 +181,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView12"
                 app:layout_constraintEnd_toEndOf="@+id/imageView12"
+                app:layout_constraintHorizontal_bias="0.476"
                 app:layout_constraintStart_toStartOf="@+id/imageView12"
-                app:layout_constraintTop_toBottomOf="@+id/textView21" />
+                app:layout_constraintTop_toBottomOf="@+id/textView21"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView6"
@@ -213,8 +215,7 @@
             <TextView
                 android:id="@+id/textView24"
                 android:layout_width="319dp"
-                android:layout_height="190dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="200dp"
                 android:layout_marginBottom="8dp"
                 android:text="Semeie as sementes de abóbora em uma cova de 45cm por 60cm com a terra já adubada e irrigada, coloque cerca de 2 ou 3 sementes por cova."
                 android:textAlignment="center"
@@ -223,8 +224,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView6"
                 app:layout_constraintEnd_toEndOf="@+id/imageView6"
+                app:layout_constraintHorizontal_bias="0.494"
                 app:layout_constraintStart_toStartOf="@+id/imageView6"
-                app:layout_constraintTop_toBottomOf="@+id/textView23" />
+                app:layout_constraintTop_toBottomOf="@+id/textView23"
+                app:layout_constraintVertical_bias="0.0" />
 
             <Button
                 android:id="@+id/button15"

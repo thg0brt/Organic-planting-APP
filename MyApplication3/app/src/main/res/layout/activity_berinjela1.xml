@@ -45,8 +45,7 @@
             <TextView
                 android:id="@+id/textView14"
                 android:layout_width="317dp"
-                android:layout_height="178dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="199dp"
                 android:layout_marginBottom="8dp"
                 android:text="A berinjela é uma planta tropical que necessita de temperaturas acima de 20°C para se desenvolver bem. Em regiões de clima quente pode ser cultivada o ano todo. Em regiões onde o inverno apresenta baixas temperaturas, pode ser cultivada nos meses mais quentes do ano."
                 android:textAlignment="center"
@@ -56,7 +55,8 @@
                 app:layout_constraintBottom_toBottomOf="@+id/imageView8"
                 app:layout_constraintEnd_toEndOf="@+id/imageView8"
                 app:layout_constraintStart_toStartOf="@+id/imageView8"
-                app:layout_constraintTop_toBottomOf="@+id/textView15" />
+                app:layout_constraintTop_toBottomOf="@+id/textView15"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView10"
@@ -87,16 +87,19 @@
             <TextView
                 android:id="@+id/textView17"
                 android:layout_width="322dp"
-                android:layout_height="172dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="189dp"
+                android:layout_marginBottom="8dp"
                 android:text="Esta planta necessita de alta luminosidade, com pelo menos algumas horas de sol direto diariamente. "
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="22sp"
                 android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView10"
                 app:layout_constraintEnd_toEndOf="@+id/imageView10"
+                app:layout_constraintHorizontal_bias="0.486"
                 app:layout_constraintStart_toStartOf="@+id/imageView10"
-                app:layout_constraintTop_toBottomOf="@+id/textView16" />
+                app:layout_constraintTop_toBottomOf="@+id/textView16"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView11"
@@ -113,8 +116,7 @@
             <TextView
                 android:id="@+id/textView18"
                 android:layout_width="311dp"
-                android:layout_height="177dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="204dp"
                 android:layout_marginBottom="8dp"
                 android:text="O solo deve ser bem drenado, fértil, rico em matéria orgânica."
                 android:textAlignment="center"
@@ -123,8 +125,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView11"
                 app:layout_constraintEnd_toEndOf="@+id/imageView11"
+                app:layout_constraintHorizontal_bias="0.494"
                 app:layout_constraintStart_toStartOf="@+id/imageView11"
-                app:layout_constraintTop_toBottomOf="@+id/textView19" />
+                app:layout_constraintTop_toBottomOf="@+id/textView19"
+                app:layout_constraintVertical_bias="0.0" />
 
             <TextView
                 android:id="@+id/textView19"
@@ -169,8 +173,7 @@
             <TextView
                 android:id="@+id/textView22"
                 android:layout_width="317dp"
-                android:layout_height="174dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="198dp"
                 android:layout_marginBottom="8dp"
                 android:text="Irrigue com frequência para que o solo seja mantido úmido, porém sem que permaneça encharcado. Chuvas durante o período de floração podem prejudicar a polinização e afetar a produtividade."
                 android:textAlignment="center"
@@ -179,8 +182,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView12"
                 app:layout_constraintEnd_toEndOf="@+id/imageView12"
+                app:layout_constraintHorizontal_bias="0.494"
                 app:layout_constraintStart_toStartOf="@+id/imageView12"
-                app:layout_constraintTop_toBottomOf="@+id/textView21" />
+                app:layout_constraintTop_toBottomOf="@+id/textView21"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView7"
@@ -223,8 +228,7 @@
             <TextView
                 android:id="@+id/textView24"
                 android:layout_width="319dp"
-                android:layout_height="392dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="402dp"
                 android:layout_marginBottom="8dp"
                 android:text="As sementes podem ser deixadas na água por um dia para facilitar a germinação. Semeie as sementes na superfície do solo, podendo cobri-las com uma leve camada de terra peneirada ou serragem fina. A germinação das sementes geralmente ocorre em uma ou duas semanas. O espaçamento ideal varia com o porte da cultivar e o clima da região (maior em clima mais quente, ligeiramente menor em clima mais ameno), podendo variar de 60 cm a 1 m entre as linhas de plantio e de 50 cm a 1 m entre as plantas."
                 android:textAlignment="center"
@@ -233,8 +237,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView7"
                 app:layout_constraintEnd_toEndOf="@+id/imageView6"
+                app:layout_constraintHorizontal_bias="0.483"
                 app:layout_constraintStart_toStartOf="@+id/imageView6"
-                app:layout_constraintTop_toBottomOf="@+id/textView23" />
+                app:layout_constraintTop_toBottomOf="@+id/textView23"
+                app:layout_constraintVertical_bias="0.0" />
 
             <Button
                 android:id="@+id/button15"

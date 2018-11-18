@@ -44,8 +44,7 @@
             <TextView
                 android:id="@+id/textView14"
                 android:layout_width="317dp"
-                android:layout_height="181dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="195dp"
                 android:layout_marginBottom="8dp"
                 android:text="Cresce melhor em climas com temperaturas entre 13°C a 18°C, pois em climas com temperatura igual ou acima de 30°C a planta tem seu desenvolvimento prejudicado. "
                 android:textAlignment="center"
@@ -54,8 +53,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView9"
                 app:layout_constraintEnd_toEndOf="@+id/imageView9"
+                app:layout_constraintHorizontal_bias="0.493"
                 app:layout_constraintStart_toStartOf="@+id/imageView9"
-                app:layout_constraintTop_toBottomOf="@+id/textView15" />
+                app:layout_constraintTop_toBottomOf="@+id/textView15"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView15"
@@ -86,8 +87,7 @@
             <TextView
                 android:id="@+id/textView17"
                 android:layout_width="317dp"
-                android:layout_height="133dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="195dp"
                 android:layout_marginBottom="8dp"
                 android:text="Precisa de boa iluminação e deve ser plantada em um local onde receba algumas horas de sol por dia. "
                 android:textAlignment="center"
@@ -97,7 +97,8 @@
                 app:layout_constraintBottom_toBottomOf="@+id/imageView15"
                 app:layout_constraintEnd_toEndOf="@+id/imageView15"
                 app:layout_constraintStart_toStartOf="@+id/imageView15"
-                app:layout_constraintTop_toBottomOf="@+id/textView16" />
+                app:layout_constraintTop_toBottomOf="@+id/textView16"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView16"
@@ -128,8 +129,7 @@
             <TextView
                 android:id="@+id/textView20"
                 android:layout_width="317dp"
-                android:layout_height="179dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="195dp"
                 android:layout_marginBottom="8dp"
                 android:text="O solo deve ser bem drenado, fértil, rico em matéria orgânica. "
                 android:textAlignment="center"
@@ -170,7 +170,7 @@
             <TextView
                 android:id="@+id/textView22"
                 android:layout_width="317dp"
-                android:layout_height="105dp"
+                android:layout_height="109dp"
                 android:text="A planta deve receber água regularmente para manter o solo sempre úmido, mas sem que fique encharcado."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
@@ -184,13 +184,14 @@
             <TextView
                 android:id="@+id/textView23"
                 android:layout_width="323dp"
-                android:layout_height="84dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="89dp"
+                android:layout_marginBottom="8dp"
                 android:text="OBS: a planta adulta é relativamente resistente a curtos períodos de seca."
                 android:textAlignment="center"
                 android:textColor="#FF0000"
                 android:textSize="20sp"
                 android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView6"
                 app:layout_constraintEnd_toEndOf="@+id/imageView6"
                 app:layout_constraintStart_toStartOf="@+id/imageView6"
                 app:layout_constraintTop_toBottomOf="@+id/textView22" />
@@ -237,15 +238,17 @@
             <TextView
                 android:id="@+id/textView25"
                 android:layout_width="330dp"
-                android:layout_height="402dp"
+                android:layout_height="380dp"
                 android:layout_marginStart="8dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
                 android:text="Costuma ser plantada diretamente no local definitivo. Se busca ter maior produtividade por área deve ser plantada entre 3 a 30 cm por planta. Se busca maior facilidade na colheita o nos cuidados com a planta deve ser plantada entre 5 a 60 cm por planta. A germinação é geralmente rápida, ocorrendo em 4 a 8 dias."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="23sp"
                 android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView14"
                 app:layout_constraintEnd_toEndOf="@+id/imageView14"
                 app:layout_constraintStart_toStartOf="@+id/imageView7"
                 app:layout_constraintTop_toBottomOf="@+id/textView24" />

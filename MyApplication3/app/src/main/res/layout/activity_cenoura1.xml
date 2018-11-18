@@ -57,8 +57,7 @@
             <TextView
                 android:id="@+id/textView14"
                 android:layout_width="317dp"
-                android:layout_height="289dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="309dp"
                 android:text="A melhor temperatura para o crescimento da cenoura é entre 16°C e 22°C, sendo que existe alguns cultivares que se adaptam a temperaturas um pouco mais altas. Plantas bem desenvolvidas podem suportar temperaturas mais baixas. Entretanto temperaturas acima de 30°C podem prejudicar seu crescimento."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
@@ -66,8 +65,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView9"
                 app:layout_constraintEnd_toEndOf="@+id/imageView9"
+                app:layout_constraintHorizontal_bias="0.493"
                 app:layout_constraintStart_toStartOf="@+id/imageView9"
-                app:layout_constraintTop_toBottomOf="@+id/textView15" />
+                app:layout_constraintTop_toBottomOf="@+id/textView15"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView10"
@@ -98,9 +99,8 @@
             <TextView
                 android:id="@+id/textView17"
                 android:layout_width="322dp"
-                android:layout_height="172dp"
+                android:layout_height="191dp"
                 android:layout_marginStart="8dp"
-                android:layout_marginTop="8dp"
                 android:layout_marginBottom="8dp"
                 android:text="A cenoura cresce em locais com sombras parciais desde que a luminosidade da seja boa. Contudo a cenoura se adapta melhor em locais com alta luminosidade e sol direto."
                 android:textAlignment="center"
@@ -109,8 +109,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView10"
                 app:layout_constraintEnd_toEndOf="@+id/imageView10"
+                app:layout_constraintHorizontal_bias="0.43"
                 app:layout_constraintStart_toStartOf="@+id/imageView10"
-                app:layout_constraintTop_toBottomOf="@+id/textView16" />
+                app:layout_constraintTop_toBottomOf="@+id/textView16"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView11"
@@ -127,8 +129,7 @@
             <TextView
                 android:id="@+id/textView18"
                 android:layout_width="311dp"
-                android:layout_height="190dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="206dp"
                 android:layout_marginBottom="8dp"
                 android:text="A cenoura deve ser cultivada em solo sem predras para que as raízes não fiquem deformadas. O solo ideál para seu cultivo é um solo profundo, bem drenado, rico em matéria orgânica. solos argilosos podem dar colheitas razoáveis se não estiver compactado."
                 android:textAlignment="center"
@@ -137,8 +138,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView11"
                 app:layout_constraintEnd_toEndOf="@+id/imageView11"
+                app:layout_constraintHorizontal_bias="0.494"
                 app:layout_constraintStart_toStartOf="@+id/imageView11"
-                app:layout_constraintTop_toBottomOf="@+id/textView19" />
+                app:layout_constraintTop_toBottomOf="@+id/textView19"
+                app:layout_constraintVertical_bias="0.0" />
 
             <TextView
                 android:id="@+id/textView19"
@@ -183,8 +186,7 @@
             <TextView
                 android:id="@+id/textView22"
                 android:layout_width="317dp"
-                android:layout_height="174dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="189dp"
                 android:layout_marginBottom="8dp"
                 android:text="Irrigue todas vez que for necessário mas sem deixar o solo encharcado, pois água em excesso ajuda no apodrecimento e surgimento de doenças."
                 android:textAlignment="center"
@@ -194,7 +196,8 @@
                 app:layout_constraintBottom_toBottomOf="@+id/imageView12"
                 app:layout_constraintEnd_toEndOf="@+id/imageView12"
                 app:layout_constraintStart_toStartOf="@+id/imageView12"
-                app:layout_constraintTop_toBottomOf="@+id/textView21" />
+                app:layout_constraintTop_toBottomOf="@+id/textView21"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView6"
@@ -225,8 +228,7 @@
             <TextView
                 android:id="@+id/textView24"
                 android:layout_width="317dp"
-                android:layout_height="190dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="200dp"
                 android:layout_marginBottom="8dp"
                 android:text="Semeie diretamente na horta em uma profundidade de 1,0cm de profundidade, deixando espaço entra as plantas entre 5,0cm e 10,0cm. A germinação geralmente ocorre entre uma e três semanas."
                 android:textAlignment="center"
@@ -235,8 +237,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView6"
                 app:layout_constraintEnd_toEndOf="@+id/imageView6"
+                app:layout_constraintHorizontal_bias="0.494"
                 app:layout_constraintStart_toStartOf="@+id/imageView6"
-                app:layout_constraintTop_toBottomOf="@+id/textView23" />
+                app:layout_constraintTop_toBottomOf="@+id/textView23"
+                app:layout_constraintVertical_bias="0.0" />
 
             <Button
                 android:id="@+id/button15"

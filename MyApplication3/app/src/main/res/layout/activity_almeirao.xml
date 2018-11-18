@@ -43,7 +43,7 @@
 
             <TextView
                 android:id="@+id/textView14"
-                android:layout_width="325dp"
+                android:layout_width="326dp"
                 android:layout_height="110dp"
                 android:text="A temperatura ideal para cultivar almeirão é entre 12°C e 22°C, embora existam espécies que toleram temperaturas mais baixas e outras que toleram temperaturas um pouco mais altas."
                 android:textAlignment="center"
@@ -58,7 +58,7 @@
             <TextView
                 android:id="@+id/textView26"
                 android:layout_width="314dp"
-                android:layout_height="89dp"
+                android:layout_height="96dp"
                 android:text="OBS: Temperaturas acima de 25°C geralmente induzem a planta a produzir folhas menos desenvolvidas e a florescer precocemente."
                 android:textAlignment="center"
                 android:textColor="#FF0000"
@@ -103,19 +103,15 @@
                 android:layout_width="322dp"
                 android:layout_height="105dp"
                 android:layout_marginStart="8dp"
-                android:layout_marginTop="8dp"
                 android:layout_marginEnd="8dp"
-                android:layout_marginBottom="8dp"
                 android:text="Os almeirões podem crescer sob sol direto ou na sombra parcial, desde que haja uma boa luminosidade."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="22sp"
                 android:textStyle="bold"
-                app:layout_constraintBottom_toBottomOf="@+id/imageView10"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/textView16"
-                app:layout_constraintVertical_bias="0.0" />
+                app:layout_constraintTop_toBottomOf="@+id/textView16" />
 
             <TextView
                 android:id="@+id/textView58"
@@ -130,7 +126,8 @@
                 app:layout_constraintBottom_toBottomOf="@+id/imageView10"
                 app:layout_constraintEnd_toEndOf="@+id/imageView10"
                 app:layout_constraintStart_toStartOf="@+id/imageView10"
-                app:layout_constraintTop_toBottomOf="@+id/textView17" />
+                app:layout_constraintTop_toBottomOf="@+id/textView17"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView11"
@@ -147,8 +144,7 @@
             <TextView
                 android:id="@+id/textView18"
                 android:layout_width="311dp"
-                android:layout_height="177dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="202dp"
                 android:layout_marginBottom="8dp"
                 android:text="As plantas precisam de solo bem drenado, fértil e rico em matéria orgânica."
                 android:textAlignment="center"
@@ -158,7 +154,8 @@
                 app:layout_constraintBottom_toBottomOf="@+id/imageView11"
                 app:layout_constraintEnd_toEndOf="@+id/imageView11"
                 app:layout_constraintStart_toStartOf="@+id/imageView11"
-                app:layout_constraintTop_toBottomOf="@+id/textView19" />
+                app:layout_constraintTop_toBottomOf="@+id/textView19"
+                app:layout_constraintVertical_bias="0.0" />
 
             <TextView
                 android:id="@+id/textView19"
@@ -203,8 +200,7 @@
             <TextView
                 android:id="@+id/textView22"
                 android:layout_width="317dp"
-                android:layout_height="174dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="191dp"
                 android:layout_marginBottom="8dp"
                 android:text="A chicória deve ser irrigada com frequência para que o solo não resseque. "
                 android:textAlignment="center"
@@ -213,8 +209,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView12"
                 app:layout_constraintEnd_toEndOf="@+id/imageView12"
+                app:layout_constraintHorizontal_bias="0.493"
                 app:layout_constraintStart_toStartOf="@+id/imageView12"
-                app:layout_constraintTop_toBottomOf="@+id/textView21" />
+                app:layout_constraintTop_toBottomOf="@+id/textView21"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView6"
@@ -245,21 +243,20 @@
                 android:id="@+id/textView23"
                 android:layout_width="315dp"
                 android:layout_height="32dp"
-                android:layout_marginTop="8dp"
                 android:text="Plantio"
                 android:textAlignment="center"
                 android:textColor="#00FF00"
                 android:textSize="24sp"
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="@+id/imageView6"
-                app:layout_constraintHorizontal_bias="0.483"
+                app:layout_constraintHorizontal_bias="0.494"
                 app:layout_constraintStart_toStartOf="@+id/imageView6"
                 app:layout_constraintTop_toTopOf="@+id/imageView6" />
 
             <TextView
                 android:id="@+id/textView24"
                 android:layout_width="315dp"
-                android:layout_height="312dp"
+                android:layout_height="329dp"
                 android:text="As sementes podem ser plantadas em sementeiras ou módulos, e o transplante pode ser feito quando as mudas têm de 4 a 6 folhas, de preferência em dias nublados ou no fim da tarde, principalmente se a temperatura ambiente está alta, pois a muda pode murchar e morrer se o transplante ocorrer quando o tempo está quente e seco. As sementes também podem ser plantadas diretamente no local definitivo da horta em regiões de clima ameno. Posteriormente algumas mudas podem ser transplantadas ou colhidas para que se fique com o espaçamento adequado."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
@@ -272,12 +269,14 @@
             <TextView
                 android:id="@+id/textView25"
                 android:layout_width="307dp"
-                android:layout_height="95dp"
+                android:layout_height="86dp"
+                android:layout_marginBottom="8dp"
                 android:text="OBS: O espaçamento recomendado depende da variedade cultivada, e das condições de cultivo, indo de 15 a 30 cm entre as plantas."
                 android:textAlignment="center"
                 android:textColor="#FF0000"
                 android:textSize="18sp"
                 android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView29"
                 app:layout_constraintEnd_toEndOf="@+id/imageView29"
                 app:layout_constraintHorizontal_bias="0.529"
                 app:layout_constraintStart_toStartOf="@+id/imageView29"

@@ -44,12 +44,12 @@
             <TextView
                 android:id="@+id/textView14"
                 android:layout_width="317dp"
-                android:layout_height="194dp"
+                android:layout_height="202dp"
                 android:layout_marginBottom="8dp"
                 android:text="É considerada uma hortaliça típica de clima frio ou ameno. Entretanto, a couve-flor é menos tolerante a baixas e altas temperaturas do que outras plantas de sua espécie, como o repolho e a couve. A temperatura ideal para o seu cultivo situa-se entre 15°C e 20°C."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
-                android:textSize="20sp"
+                android:textSize="19sp"
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView9"
                 app:layout_constraintEnd_toEndOf="@+id/imageView9"
@@ -87,7 +87,7 @@
             <TextView
                 android:id="@+id/textView17"
                 android:layout_width="317dp"
-                android:layout_height="177dp"
+                android:layout_height="192dp"
                 android:layout_marginBottom="8dp"
                 android:text="Deve ser cultivada em condições de alta luminosidade, com luz solar direta por pelo menos algumas horas por dia."
                 android:textAlignment="center"
@@ -96,9 +96,9 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView15"
                 app:layout_constraintEnd_toEndOf="@+id/imageView15"
-                app:layout_constraintHorizontal_bias="0.514"
                 app:layout_constraintStart_toStartOf="@+id/imageView15"
-                app:layout_constraintTop_toBottomOf="@+id/textView16" />
+                app:layout_constraintTop_toBottomOf="@+id/textView16"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView16"
@@ -129,7 +129,7 @@
             <TextView
                 android:id="@+id/textView20"
                 android:layout_width="317dp"
-                android:layout_height="179dp"
+                android:layout_height="192dp"
                 android:text="O solo deve ser bem drenado, fértil e rico em matéria orgânica."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
@@ -137,8 +137,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView16"
                 app:layout_constraintEnd_toEndOf="@+id/imageView16"
+                app:layout_constraintHorizontal_bias="0.492"
                 app:layout_constraintStart_toStartOf="@+id/imageView16"
-                app:layout_constraintTop_toBottomOf="@+id/textView19"/>
+                app:layout_constraintTop_toBottomOf="@+id/textView19"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView6"
@@ -169,7 +171,7 @@
             <TextView
                 android:id="@+id/textView22"
                 android:layout_width="317dp"
-                android:layout_height="101dp"
+                android:layout_height="114dp"
                 android:text="A couve-flor deve ser irrigada com frequência, de forma que o solo fique sempre úmido, mas sem ficar encharcado."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
@@ -183,7 +185,7 @@
             <TextView
                 android:id="@+id/textView4"
                 android:layout_width="323dp"
-                android:layout_height="51dp"
+                android:layout_height="92dp"
                 android:layout_marginBottom="8dp"
                 android:text="Obs: A couve-flor é muito sensível a falta de água no solo. "
                 android:textAlignment="center"
@@ -239,7 +241,7 @@
             <TextView
                 android:id="@+id/textView25"
                 android:layout_width="330dp"
-                android:layout_height="285dp"
+                android:layout_height="297dp"
                 android:layout_marginStart="8dp"
                 android:layout_marginEnd="8dp"
                 android:layout_marginBottom="8dp"
@@ -252,7 +254,8 @@
                 app:layout_constraintEnd_toEndOf="@+id/imageView14"
                 app:layout_constraintHorizontal_bias="0.512"
                 app:layout_constraintStart_toStartOf="@+id/imageView7"
-                app:layout_constraintTop_toBottomOf="@+id/textView24" />
+                app:layout_constraintTop_toBottomOf="@+id/textView24"
+                app:layout_constraintVertical_bias="0.0" />
 
             <Button
                 android:id="@+id/button15"

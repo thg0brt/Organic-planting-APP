@@ -6,7 +6,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.TextView;
 
 public class FragmentPrimavera extends Fragment{
 
@@ -19,18 +18,8 @@ public class FragmentPrimavera extends Fragment{
         {
             @Override
             public void onClick(View v) {
-                Intent Inverno = new Intent(getActivity(),Hprimavera.class);
-                startActivity(Inverno);
-                onDestroy();
-            }
-        });
-        Button button2 = (Button) view.findViewById(R.id.VoltarTela);
-        button2.setOnClickListener(new View.OnClickListener()
-        {
-            @Override
-            public void onClick(View v) {
-                Intent Voltar = new Intent(getActivity(),tela2.class);
-                startActivity(Voltar);
+                Intent Primavera = new Intent(getActivity(),Hprimavera.class);
+                startActivity(Primavera);
                 onDestroy();
             }
         });

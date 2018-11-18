@@ -58,8 +58,7 @@
             <TextView
                 android:id="@+id/textView14"
                 android:layout_width="317dp"
-                android:layout_height="364dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="368dp"
                 android:layout_marginBottom="8dp"
                 android:text="Cresce melhor em clima ameno (temperatura entre 10°C e 24°C). Há cultivares que crescem bem em temperaturas mais altas, mas muitas cultivares, especialmente cultivares de beterrabas açucareiras e forrageiras, não crescem bem em climas mais quentes. Por outro lado, plantas bem desenvolvidas podem suportar baixas temperaturas e geadas."
                 android:textAlignment="center"
@@ -100,7 +99,7 @@
             <TextView
                 android:id="@+id/textView17"
                 android:layout_width="322dp"
-                android:layout_height="172dp"
+                android:layout_height="184dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginBottom="8dp"
                 android:text="A beterraba necessita de boa luminosidade, com pelo menos algumas horas de sol direto diariamente."
@@ -110,8 +109,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView10"
                 app:layout_constraintEnd_toEndOf="@+id/imageView10"
+                app:layout_constraintHorizontal_bias="0.473"
                 app:layout_constraintStart_toStartOf="@+id/imageView10"
-                app:layout_constraintTop_toBottomOf="@+id/textView16" />
+                app:layout_constraintTop_toBottomOf="@+id/textView16"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView11"
@@ -128,7 +129,7 @@
             <TextView
                 android:id="@+id/textView18"
                 android:layout_width="311dp"
-                android:layout_height="177dp"
+                android:layout_height="191dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginBottom="8dp"
                 android:text="A beterraba precisa de solo bem drenado, profundo, leve, sem pedras e outros detritos, fértil, rico em matéria orgânica."
@@ -138,8 +139,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView11"
                 app:layout_constraintEnd_toEndOf="@+id/imageView11"
+                app:layout_constraintHorizontal_bias="0.49"
                 app:layout_constraintStart_toStartOf="@+id/imageView11"
-                app:layout_constraintTop_toBottomOf="@+id/textView19" />
+                app:layout_constraintTop_toBottomOf="@+id/textView19"
+                app:layout_constraintVertical_bias="0.0" />
 
             <TextView
                 android:id="@+id/textView19"
@@ -213,20 +216,6 @@
                 app:layout_constraintTop_toBottomOf="@+id/imageView12"
                 app:srcCompat="@drawable/texto" />
 
-            <TextView
-                android:id="@+id/textView23"
-                android:layout_width="315dp"
-                android:layout_height="32dp"
-                android:layout_marginTop="8dp"
-                android:text="Plantio"
-                android:textAlignment="center"
-                android:textColor="#00FF00"
-                android:textSize="24sp"
-                android:textStyle="bold"
-                app:layout_constraintEnd_toEndOf="@+id/imageView13"
-                app:layout_constraintStart_toStartOf="@+id/imageView13"
-                app:layout_constraintTop_toTopOf="@+id/imageView13" />
-
             <ImageView
                 android:id="@+id/imageView15"
                 android:layout_width="397dp"
@@ -241,6 +230,20 @@
                 app:srcCompat="@drawable/texto" />
 
             <TextView
+                android:id="@+id/textView23"
+                android:layout_width="315dp"
+                android:layout_height="32dp"
+                android:layout_marginTop="8dp"
+                android:text="Plantio"
+                android:textAlignment="center"
+                android:textColor="#00FF00"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/imageView13"
+                app:layout_constraintStart_toStartOf="@+id/imageView13"
+                app:layout_constraintTop_toTopOf="@+id/imageView13" />
+
+            <TextView
                 android:id="@+id/textView24"
                 android:layout_width="319dp"
                 android:layout_height="349dp"
@@ -248,12 +251,14 @@
                 android:text="Semeie a uma profundidade de aproximadamente 1 cm no solo, preferencialmente diretamente no local definitivo da horta, pois as mudas de beterraba podem facilmente sofrer danos. Ainda assim, é possível semear em sementeiras e outros recipientes. O transplante das mudas para a horta deve então ser realizado quando atingem aproximadamente 5 cm de altura, sendo que o transplante deve ser feito com cuidado para não danificar as raízes das mudas. A germinação das sementes geralmente leva de uma a três semanas, dependendo das condições ambientais."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
-                android:textSize="18sp"
+                android:textSize="17sp"
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView15"
                 app:layout_constraintEnd_toEndOf="@+id/imageView13"
+                app:layout_constraintHorizontal_bias="0.487"
                 app:layout_constraintStart_toStartOf="@+id/imageView13"
-                app:layout_constraintTop_toBottomOf="@+id/textView23" />
+                app:layout_constraintTop_toBottomOf="@+id/textView23"
+                app:layout_constraintVertical_bias="0.0" />
 
             <Button
                 android:id="@+id/button15"

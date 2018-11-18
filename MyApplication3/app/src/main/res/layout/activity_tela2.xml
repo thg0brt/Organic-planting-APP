@@ -75,7 +75,7 @@
                 android:layout_marginBottom="28dp"
                 android:background="@drawable/madeira"
                 android:onClick="CombateP"
-                android:text="Combate á pragas"
+                android:text="Combate à pragas"
                 android:textAlignment="center"
                 android:textAllCaps="false"
                 android:textColor="#FFFFFF"

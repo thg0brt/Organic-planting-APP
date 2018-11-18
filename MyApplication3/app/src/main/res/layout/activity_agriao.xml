@@ -44,8 +44,7 @@
             <TextView
                 android:id="@+id/textView14"
                 android:layout_width="317dp"
-                android:layout_height="169dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="199dp"
                 android:layout_marginBottom="8dp"
                 android:text="Prefere um clima ameno, crescendo melhor em temperaturas abaixo de 20°C. Em temperaturas muito elevadas as folhas se tornam mais rijas e são menos saborosas. "
                 android:textAlignment="center"
@@ -54,8 +53,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView8"
                 app:layout_constraintEnd_toEndOf="@+id/imageView8"
+                app:layout_constraintHorizontal_bias="0.493"
                 app:layout_constraintStart_toStartOf="@+id/imageView8"
-                app:layout_constraintTop_toBottomOf="@+id/textView15" />
+                app:layout_constraintTop_toBottomOf="@+id/textView15"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView10"
@@ -86,9 +87,8 @@
             <TextView
                 android:id="@+id/textView17"
                 android:layout_width="322dp"
-                android:layout_height="172dp"
+                android:layout_height="198dp"
                 android:layout_marginStart="8dp"
-                android:layout_marginTop="8dp"
                 android:layout_marginEnd="8dp"
                 android:layout_marginBottom="8dp"
                 android:text="Pode ser cultivada com iluminação solar direta em clima ameno. Em climas mais quentes, cultive em sombra parcial com uma boa luminosidade. "
@@ -99,7 +99,8 @@
                 app:layout_constraintBottom_toBottomOf="@+id/imageView10"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/textView16" />
+                app:layout_constraintTop_toBottomOf="@+id/textView16"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView11"
@@ -117,7 +118,6 @@
                 android:id="@+id/textView18"
                 android:layout_width="311dp"
                 android:layout_height="200dp"
-                android:layout_marginTop="8dp"
                 android:layout_marginBottom="8dp"
                 android:text="Embora seja tolerante quanto ao solo, cresce melhor em um solo bem drenado, fértil e rico em matéria orgânica."
                 android:textAlignment="center"
@@ -172,8 +172,7 @@
             <TextView
                 android:id="@+id/textView22"
                 android:layout_width="317dp"
-                android:layout_height="174dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="192dp"
                 android:layout_marginBottom="8dp"
                 android:text="O agrião-da-terra é muito sensível a falta de água, mas por outro lado não suporta terrenos inundados como o agrião-da-água. Irrigue de forma a manter o solo sempre úmido, mas sem que fique encharcado. "
                 android:textAlignment="center"
@@ -182,8 +181,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView12"
                 app:layout_constraintEnd_toEndOf="@+id/imageView12"
+                app:layout_constraintHorizontal_bias="0.506"
                 app:layout_constraintStart_toStartOf="@+id/imageView12"
-                app:layout_constraintTop_toBottomOf="@+id/textView21" />
+                app:layout_constraintTop_toBottomOf="@+id/textView21"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView6"
@@ -214,8 +215,7 @@
             <TextView
                 android:id="@+id/textView24"
                 android:layout_width="319dp"
-                android:layout_height="190dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="199dp"
                 android:layout_marginBottom="8dp"
                 android:text="Semeie diretamente na horta em uma profundidade de 1,0cm de profundidade, deixando espaço entra as plantas entre 5,0cm e 10,0cm. A germinação geralmente ocorre entre uma e três semanas."
                 android:textAlignment="center"
@@ -224,8 +224,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView6"
                 app:layout_constraintEnd_toEndOf="@+id/imageView6"
+                app:layout_constraintHorizontal_bias="0.505"
                 app:layout_constraintStart_toStartOf="@+id/imageView6"
-                app:layout_constraintTop_toBottomOf="@+id/textView23" />
+                app:layout_constraintTop_toBottomOf="@+id/textView23"
+                app:layout_constraintVertical_bias="0.0" />
 
             <Button
                 android:id="@+id/button15"

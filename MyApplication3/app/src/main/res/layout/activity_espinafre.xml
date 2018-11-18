@@ -44,8 +44,7 @@
             <TextView
                 android:id="@+id/textView14"
                 android:layout_width="317dp"
-                android:layout_height="181dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="195dp"
                 android:layout_marginBottom="8dp"
                 android:text="O espinafre cresce melhor em regiões com temperaturas mais baixas, a temperatura ideal de cultivo é a que vária entre 13°C e 20°C. Temperaturas mais elevadas podem fazer a planta florescer precocemente."
                 android:textAlignment="center"
@@ -86,8 +85,7 @@
             <TextView
                 android:id="@+id/textView17"
                 android:layout_width="317dp"
-                android:layout_height="171dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="195dp"
                 android:layout_marginBottom="8dp"
                 android:text=" O espinafre pode ser cultivado com luz solar direta ou em sombra parcial. Em regiões de clima quente, escolha o local de cultivo de forma que a planta não fique exposta a luz solar direta durante as horas mais quentes do dia. "
                 android:textAlignment="center"
@@ -130,8 +128,7 @@
             <TextView
                 android:id="@+id/textView20"
                 android:layout_width="317dp"
-                android:layout_height="179dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="195dp"
                 android:layout_marginBottom="8dp"
                 android:text="O solo deve ser bem drenado, fértil, rico em matéria orgânica."
                 android:textAlignment="center"
@@ -172,16 +169,19 @@
             <TextView
                 android:id="@+id/textView22"
                 android:layout_width="317dp"
-                android:layout_height="181dp"
+                android:layout_height="195dp"
+                android:layout_marginBottom="8dp"
                 android:text="Irrigue com frequência para que o solo seja mantido úmido, mas sem que permaneça encharcado."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="22sp"
                 android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView6"
                 app:layout_constraintEnd_toEndOf="@+id/imageView6"
-                app:layout_constraintHorizontal_bias="0.538"
+                app:layout_constraintHorizontal_bias="0.492"
                 app:layout_constraintStart_toStartOf="@+id/imageView6"
-                app:layout_constraintTop_toBottomOf="@+id/textView21" />
+                app:layout_constraintTop_toBottomOf="@+id/textView21"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView7"
@@ -224,18 +224,20 @@
             <TextView
                 android:id="@+id/textView25"
                 android:layout_width="330dp"
-                android:layout_height="353dp"
+                android:layout_height="409dp"
                 android:layout_marginStart="8dp"
-                android:layout_marginTop="8dp"
                 android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
                 android:text="Semeie diretamente no local definitivo da horta ou semear em sementeiras, pequenos vasos ou outros recipientes e transplante quando as mudas tiverem quatro folhas verdadeiras. As sementes podem ficar até 1 cm de profundidade no solo e geralmente levam uma ou duas semanas para germinar em condições adequadas.Um espaçamento pequeno entre plantas aumenta a produtividade por área, mas um espaçamento maior possibilita a colheita de plantas maiores. O espinafre também pode ser cultivado em vasos e jardineiras. "
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="19sp"
                 android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView14"
                 app:layout_constraintEnd_toEndOf="@+id/imageView14"
                 app:layout_constraintStart_toStartOf="@+id/imageView7"
-                app:layout_constraintTop_toBottomOf="@+id/textView24" />
+                app:layout_constraintTop_toBottomOf="@+id/textView24"
+                app:layout_constraintVertical_bias="0.0" />
 
             <Button
                 android:id="@+id/button15"

@@ -44,7 +44,7 @@
             <TextView
                 android:id="@+id/textView14"
                 android:layout_width="317dp"
-                android:layout_height="169dp"
+                android:layout_height="195dp"
                 android:layout_marginBottom="8dp"
                 android:text="Esta planta cresce melhor em clima quente, com temperaturas entre 20°C e 34°C. As melancias geralmente são mais saborosas quando cultivadas em uma condição de baixa umidade relativa do ar. "
                 android:textAlignment="center"
@@ -87,12 +87,12 @@
             <TextView
                 android:id="@+id/textView17"
                 android:layout_width="322dp"
-                android:layout_height="172dp"
+                android:layout_height="193dp"
                 android:layout_marginBottom="8dp"
-                android:text="                                                              Necessita de luz solar direta."
+                android:text="Necessita de luz solar direta."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
-                android:textSize="34sp"
+                android:textSize="28sp"
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView10"
                 app:layout_constraintEnd_toEndOf="@+id/imageView10"
@@ -114,8 +114,8 @@
 
             <TextView
                 android:id="@+id/textView18"
-                android:layout_width="311dp"
-                android:layout_height="177dp"
+                android:layout_width="317dp"
+                android:layout_height="195dp"
                 android:layout_marginBottom="8dp"
                 android:text="O solo deve ser bem drenado, leve, fértil, com boa disponibilidade de nitrogênio e rico em matéria orgânica. Os solos arenosos são os mais adequados."
                 android:textAlignment="center"
@@ -170,7 +170,7 @@
             <TextView
                 android:id="@+id/textView22"
                 android:layout_width="317dp"
-                android:layout_height="174dp"
+                android:layout_height="191dp"
                 android:layout_marginBottom="8dp"
                 android:text="O solo deve ser mantido úmido durante a fase de crescimento da planta. Durante a maturação dos frutos, uma diminuição na frequência da irrigação pode favorecer a produção de frutos mais doces e saborosos."
                 android:textAlignment="center"
@@ -237,14 +237,14 @@
             <TextView
                 android:id="@+id/textView24"
                 android:layout_width="319dp"
-                android:layout_height="199dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="186dp"
                 android:text="A semeadura das sementes é feita diretamente no local definitivo se as condições climáticas forem adequadas. Caso contrário, as sementes podem ser semeadas em vasos com 10 cm de diâmetro ou em sacos para mudas, que são mantidos em locais aquecidos."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="18sp"
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="@+id/imageView6"
+                app:layout_constraintHorizontal_bias="0.493"
                 app:layout_constraintStart_toStartOf="@+id/imageView6"
                 app:layout_constraintTop_toBottomOf="@+id/textView23" />
 
@@ -270,8 +270,7 @@
             <TextView
                 android:id="@+id/textView6"
                 android:layout_width="321dp"
-                android:layout_height="372dp"
-                android:layout_marginTop="44dp"
+                android:layout_height="370dp"
                 android:layout_marginBottom="8dp"
                 android:text=" As mudas devem ser transplantadas cuidadosamente quando atingem de 10 a 15 cm de altura. No local definitivo são abertas covas de 30 ou 40 cm de diâmetro e profundidade, com o solo retirado, adubado e recolocado. As sementes são semeadas a uma profundidade de 2 a 5 cm, colocando até seis sementes por cova, posteriormente eliminando as mudas mais fracas de forma a deixar apenas duas ou três plantas por cova. A germinação das sementes normalmente leva entre 4 e 14 dias. O espaçamento pode variar de 2 a 3 m entre as covas."
                 android:textAlignment="center"
@@ -281,7 +280,7 @@
                 app:layout_constraintBottom_toBottomOf="@+id/imageView15"
                 app:layout_constraintEnd_toEndOf="@+id/imageView15"
                 app:layout_constraintStart_toStartOf="@+id/imageView15"
-                app:layout_constraintTop_toTopOf="@+id/imageView14" />
+                app:layout_constraintTop_toBottomOf="@+id/textView24" />
 
             <ImageView
                 android:id="@+id/imageView35"

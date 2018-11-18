@@ -44,8 +44,7 @@
             <TextView
                 android:id="@+id/textView14"
                 android:layout_width="317dp"
-                android:layout_height="181dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="187dp"
                 android:layout_marginBottom="8dp"
                 android:text="A Cebolinha Verde cresce melhor em temperaturas que variam de 13°C a 24°C, com exceção de alguns cultivares que podem suportar baixas e altas temperaturas."
                 android:textAlignment="center"
@@ -54,8 +53,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView9"
                 app:layout_constraintEnd_toEndOf="@+id/imageView9"
+                app:layout_constraintHorizontal_bias="0.493"
                 app:layout_constraintStart_toStartOf="@+id/imageView9"
-                app:layout_constraintTop_toBottomOf="@+id/textView15" />
+                app:layout_constraintTop_toBottomOf="@+id/textView15"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView15"
@@ -86,8 +87,7 @@
             <TextView
                 android:id="@+id/textView17"
                 android:layout_width="317dp"
-                android:layout_height="133dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="190dp"
                 android:layout_marginBottom="8dp"
                 android:text="Necessita de luz solar direta, pelo menos por algumas horas diariamente."
                 android:textAlignment="center"
@@ -97,7 +97,8 @@
                 app:layout_constraintBottom_toBottomOf="@+id/imageView15"
                 app:layout_constraintEnd_toEndOf="@+id/imageView15"
                 app:layout_constraintStart_toStartOf="@+id/imageView15"
-                app:layout_constraintTop_toBottomOf="@+id/textView16" />
+                app:layout_constraintTop_toBottomOf="@+id/textView16"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView16"
@@ -128,10 +129,9 @@
             <TextView
                 android:id="@+id/textView20"
                 android:layout_width="317dp"
-                android:layout_height="179dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="193dp"
                 android:layout_marginBottom="8dp"
-                android:text="Cultive de preferência em solo bem drenado, fértil e rico em matéria orgânica. A cebolinha-verde é uma planta bastante rústica e crescerá bem em quase qualquer solo, exceto os solos sujeitos a encharcamento."
+                android:text="É indicado plantar em solos bem drenados, Férteis e ricos em matéria orgânica. Por ser uma planta rústica a cebolinha crescerá bem em quase qualquer tipo de solo, exceto os solos sujeitos a encharcamento."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="20sp"
@@ -156,7 +156,7 @@
             <TextView
                 android:id="@+id/textView21"
                 android:layout_width="315dp"
-                android:layout_height="39dp"
+                android:layout_height="42dp"
                 android:layout_marginTop="8dp"
                 android:text="Irrigação"
                 android:textAlignment="center"
@@ -185,12 +185,13 @@
                 android:id="@+id/textView23"
                 android:layout_width="323dp"
                 android:layout_height="84dp"
-                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
                 android:text="OBS: a planta adulta é relativamente resistente a curtos períodos de seca."
                 android:textAlignment="center"
                 android:textColor="#FF0000"
                 android:textSize="20sp"
                 android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView6"
                 app:layout_constraintEnd_toEndOf="@+id/imageView6"
                 app:layout_constraintStart_toStartOf="@+id/imageView6"
                 app:layout_constraintTop_toBottomOf="@+id/textView22" />
@@ -212,9 +213,10 @@
                 android:layout_width="384dp"
                 android:layout_height="245dp"
                 android:layout_marginStart="8dp"
-                android:layout_marginTop="210dp"
+                android:layout_marginTop="220dp"
                 android:layout_marginEnd="8dp"
                 app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.818"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="@+id/imageView7"
                 app:srcCompat="@drawable/texto" />
@@ -236,9 +238,8 @@
             <TextView
                 android:id="@+id/textView25"
                 android:layout_width="330dp"
-                android:layout_height="402dp"
+                android:layout_height="422dp"
                 android:layout_marginStart="8dp"
-                android:layout_marginTop="8dp"
                 android:layout_marginEnd="8dp"
                 android:text="Pode ser cultivada através de sementes ou da divisão de touceiras formadas por plantas adultas.
  As sementes podem ser plantadas diretamente no local definitivo ou em sementeiras, transplantando as mudas quando se tornarem grandes o suficiente para serem manuseadas.
@@ -247,9 +248,12 @@ O método de plantio pela divisão de touceiras se dá por separar cada planta d
                 android:textColor="#FFFFFF"
                 android:textSize="20sp"
                 android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView14"
                 app:layout_constraintEnd_toEndOf="@+id/imageView14"
+                app:layout_constraintHorizontal_bias="0.522"
                 app:layout_constraintStart_toStartOf="@+id/imageView7"
-                app:layout_constraintTop_toBottomOf="@+id/textView24" />
+                app:layout_constraintTop_toBottomOf="@+id/textView24"
+                app:layout_constraintVertical_bias="0.0" />
 
             <Button
                 android:id="@+id/button15"

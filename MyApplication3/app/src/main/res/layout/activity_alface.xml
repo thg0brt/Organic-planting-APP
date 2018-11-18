@@ -43,20 +43,17 @@
 
             <TextView
                 android:id="@+id/textView14"
-                android:layout_width="320dp"
-                android:layout_height="157dp"
-                android:layout_marginBottom="8dp"
+                android:layout_width="323dp"
+                android:layout_height="156dp"
                 android:text="Cresce melhor em clima ameno ou frio, portanto é normalmente cultivada no outono e inverno em regiões de clima subtropical, e do fim do verão ao fim do outono em regiões de clima temperado, embora em regiões de inverno rigoroso possa precisar de proteção."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="18sp"
                 android:textStyle="bold"
-                app:layout_constraintBottom_toBottomOf="@+id/imageView9"
                 app:layout_constraintEnd_toEndOf="@+id/imageView9"
                 app:layout_constraintHorizontal_bias="0.493"
                 app:layout_constraintStart_toStartOf="@+id/imageView9"
-                app:layout_constraintTop_toBottomOf="@+id/textView15"
-                app:layout_constraintVertical_bias="0.0" />
+                app:layout_constraintTop_toBottomOf="@+id/textView15" />
 
             <TextView
                 android:id="@+id/textView5"
@@ -71,7 +68,8 @@
                 app:layout_constraintBottom_toBottomOf="@+id/imageView9"
                 app:layout_constraintEnd_toEndOf="@+id/imageView9"
                 app:layout_constraintHorizontal_bias="0.507"
-                app:layout_constraintStart_toStartOf="@+id/imageView9" />
+                app:layout_constraintStart_toStartOf="@+id/imageView9"
+                app:layout_constraintTop_toBottomOf="@+id/textView14" />
 
             <ImageView
                 android:id="@+id/imageView15"
@@ -144,7 +142,7 @@
             <TextView
                 android:id="@+id/textView20"
                 android:layout_width="317dp"
-                android:layout_height="179dp"
+                android:layout_height="191dp"
                 android:text="O solo deve ser bem drenado, fértil e rico em matéria orgânica."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
@@ -152,8 +150,10 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView16"
                 app:layout_constraintEnd_toEndOf="@+id/imageView16"
+                app:layout_constraintHorizontal_bias="0.507"
                 app:layout_constraintStart_toStartOf="@+id/imageView16"
-                app:layout_constraintTop_toBottomOf="@+id/textView19"/>
+                app:layout_constraintTop_toBottomOf="@+id/textView19"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView6"
@@ -184,7 +184,7 @@
             <TextView
                 android:id="@+id/textView22"
                 android:layout_width="317dp"
-                android:layout_height="141dp"
+                android:layout_height="190dp"
                 android:layout_marginBottom="8dp"
                 android:text="Irrigue de forma a manter o solo sempre úmido, mas sem que fique encharcado. "
                 android:textAlignment="center"
@@ -240,7 +240,7 @@
             <TextView
                 android:id="@+id/textView25"
                 android:layout_width="330dp"
-                android:layout_height="262dp"
+                android:layout_height="263dp"
                 android:layout_marginStart="8dp"
                 android:layout_marginEnd="8dp"
                 android:text="As sementes da alface-de-cordeiro podem ser semeadas no local definitivo da horta, a uma profundidade de 0,5 a 1 cm. Como as sementes podem demorar para germinar, é recomendado deixá-las na água por um dia antes de realizar a semeadura, isso apressar a germinação. O espaçamento recomendado entre as linhas de plantio pode ser de 15 a 30 cm, com um espaçamento entre as plantas de 8 a 15 cm, dependendo das condições de cultivo."
@@ -256,12 +256,14 @@
             <TextView
                 android:id="@+id/textView3"
                 android:layout_width="321dp"
-                android:layout_height="41dp"
+                android:layout_height="61dp"
+                android:layout_marginBottom="8dp"
                 android:text="Obs: A alface-de-cordeiro pode ser cultivada em vasos e jardineiras que tenham um mínimo de 10 cm de altura. "
                 android:textAlignment="center"
                 android:textColor="#FF0000"
                 android:textSize="16sp"
                 android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView14"
                 app:layout_constraintEnd_toEndOf="@+id/imageView14"
                 app:layout_constraintHorizontal_bias="0.46"
                 app:layout_constraintStart_toStartOf="@+id/imageView14"

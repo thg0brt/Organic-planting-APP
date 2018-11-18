@@ -18,18 +18,8 @@ public class FragmentOutono extends Fragment{
         {
             @Override
             public void onClick(View v) {
-                Intent Inverno = new Intent(getActivity(),Houtono.class);
-                startActivity(Inverno);
-                onDestroy();
-            }
-        });
-        Button button2 = (Button) view.findViewById(R.id.VoltarTela);
-        button2.setOnClickListener(new View.OnClickListener()
-        {
-            @Override
-            public void onClick(View v) {
-                Intent Voltar = new Intent(getActivity(),tela2.class);
-                startActivity(Voltar);
+                Intent Outono = new Intent(getActivity(),Houtono.class);
+                startActivity(Outono);
                 onDestroy();
             }
         });

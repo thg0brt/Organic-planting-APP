@@ -44,10 +44,9 @@
             <TextView
                 android:id="@+id/textView14"
                 android:layout_width="317dp"
-                android:layout_height="169dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="195dp"
                 android:layout_marginBottom="8dp"
-                android:text="O coentro pode ser cultivado em uma ampla variedade de climas, lembrando que ele não suporta baixas temperaturas."
+                android:text="O coentro pode ser cultivado em uma ampla variedade de climas, porém ele não suporta baixas temperaturas."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="24sp"
@@ -55,7 +54,8 @@
                 app:layout_constraintBottom_toBottomOf="@+id/imageView8"
                 app:layout_constraintEnd_toEndOf="@+id/imageView8"
                 app:layout_constraintStart_toStartOf="@+id/imageView8"
-                app:layout_constraintTop_toBottomOf="@+id/textView15" />
+                app:layout_constraintTop_toBottomOf="@+id/textView15"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView10"
@@ -128,8 +128,7 @@
             <TextView
                 android:id="@+id/textView18"
                 android:layout_width="311dp"
-                android:layout_height="177dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="204dp"
                 android:layout_marginBottom="8dp"
                 android:text="Cultive o coentro de preferência em solo bem drenado, moderadamente fértil, rico em matéria orgânica. Por se tratar de uma planta rústica, que tolera bem várias condições de solo, o coentro pode ser cultivado em solos poucos férteis, mas que seja rico em matéria orgânica."
                 android:textAlignment="center"
@@ -139,7 +138,8 @@
                 app:layout_constraintBottom_toBottomOf="@+id/imageView11"
                 app:layout_constraintEnd_toEndOf="@+id/imageView11"
                 app:layout_constraintStart_toStartOf="@+id/imageView11"
-                app:layout_constraintTop_toBottomOf="@+id/textView19" />
+                app:layout_constraintTop_toBottomOf="@+id/textView19"
+                app:layout_constraintVertical_bias="0.0" />
 
             <TextView
                 android:id="@+id/textView19"
@@ -184,8 +184,7 @@
             <TextView
                 android:id="@+id/textView22"
                 android:layout_width="317dp"
-                android:layout_height="174dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="203dp"
                 android:layout_marginBottom="8dp"
                 android:text=" Irrigue de forma a manter o solo sempre úmido enquanto a planta for uma muda. Quando a planta tiver atingido um bom desenvolvimento as irrigações podem ser feitas com um maior intervalo de tempo."
                 android:textAlignment="center"
@@ -195,7 +194,8 @@
                 app:layout_constraintBottom_toBottomOf="@+id/imageView12"
                 app:layout_constraintEnd_toEndOf="@+id/imageView12"
                 app:layout_constraintStart_toStartOf="@+id/imageView12"
-                app:layout_constraintTop_toBottomOf="@+id/textView21" />
+                app:layout_constraintTop_toBottomOf="@+id/textView21"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView6"
@@ -223,14 +223,14 @@
 
             <ImageView
                 android:id="@+id/imageView15"
-                android:layout_width="414dp"
-                android:layout_height="240dp"
+                android:layout_width="400dp"
+                android:layout_height="247dp"
                 android:layout_marginStart="8dp"
-                android:layout_marginTop="16dp"
+                android:layout_marginTop="8dp"
                 android:layout_marginEnd="8dp"
                 android:src="@drawable/texto"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.543"
+                app:layout_constraintHorizontal_bias="0.518"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textView6" />
 
@@ -270,30 +270,34 @@
             <TextView
                 android:id="@+id/textView6"
                 android:layout_width="321dp"
-                android:layout_height="242dp"
-                android:layout_marginTop="8dp"
+                android:layout_height="249dp"
+                android:layout_marginTop="4dp"
                 android:text=" Plante as sementes no local definitivo da horta, com até 1 cm de profundidade. O coentro não suporta bem o transplante, mas ainda assim pode ser plantado em copos feitos de papel jornal ou saquinhos de plástico e suas mudas transplantadas com cuidado, sem mexer muito com a raiz, ou seja, retirando o recipiente e deixando o torrão de terra intacto com a muda."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="18sp"
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="@+id/imageView6"
+                app:layout_constraintHorizontal_bias="0.493"
                 app:layout_constraintStart_toStartOf="@+id/imageView6"
                 app:layout_constraintTop_toBottomOf="@+id/textView23" />
 
             <TextView
                 android:id="@+id/textView2"
                 android:layout_width="323dp"
-                android:layout_height="242dp"
-                android:layout_marginTop="40dp"
+                android:layout_height="257dp"
+                android:layout_marginBottom="8dp"
                 android:text="O coentro pode ser cultivado em vasos e jardineiras, de preferência com pelo menos 30 cm de profundidade, pois a planta tem uma longa raiz primária. Se cultivado em vasos menores, terá seu desenvolvimento bastante limitado.Obs: As sementes de coentro podem ter baixa taxa de germinação e podem demorar a germinar, deixar as sementes de molho em água de 1 a 3 dias pode ajudar na germinação."
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="18sp"
                 android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView15"
                 app:layout_constraintEnd_toEndOf="@+id/imageView15"
+                app:layout_constraintHorizontal_bias="0.493"
                 app:layout_constraintStart_toStartOf="@+id/imageView15"
-                app:layout_constraintTop_toBottomOf="@+id/imageView6" />
+                app:layout_constraintTop_toBottomOf="@+id/textView6"
+                app:layout_constraintVertical_bias="0.0" />
 
             <ImageView
                 android:id="@+id/imageView33"
