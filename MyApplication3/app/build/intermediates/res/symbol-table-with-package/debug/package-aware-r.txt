@@ -1114,7 +1114,7 @@ id appbar
 id async
 id auto
 id bInverno
-id bOrtaliças
+id bOrtaliÃ§as
 id bOutono
 id bPesticida
 id bPrimavera

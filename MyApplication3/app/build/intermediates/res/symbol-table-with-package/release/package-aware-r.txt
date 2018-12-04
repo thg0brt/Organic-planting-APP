@@ -1087,7 +1087,6 @@ id FUNCTION
 id META
 id SHIFT
 id SYM
-id VoltarTela
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -1115,7 +1114,7 @@ id appbar
 id async
 id auto
 id bInverno
-id bOrtaliças
+id bOrtaliÃ§as
 id bOutono
 id bPesticida
 id bPrimavera
